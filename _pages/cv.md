@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Link](https://yuyinzhou.github.io/Liangqiong_resume_2022_publish.pdf)
+[Link](https://liangqiong.github.io/Liangqiong_resume_2022_publish.pdf)
 
