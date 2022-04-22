@@ -18,10 +18,9 @@ My research interests spans the area of artificial intelligence, computer vision
 from imperfect medical data.
 
 Please drop me an email if you are interested in doing research with me. I am happy to collaborate.
-======
 
 RECENT NEWS
 ======
-* 2022-04: One paper accepted to MEDIA 2022 ([Paper]: https://www.sciencedirect.com/science/article/pii/S1361841522000755)
-* 2022-04: One paper accepted to PNAS 2022 ([Paper]: https://www.pnas.org/doi/abs/10.1073/pnas.2123111119)
-* 2022-03: One paper accepted to CVPR 2022 ([Paper]: https://arxiv.org/abs/2106.06047)
+* 2022-04: One paper accepted to MEDIA 2022 ([Paper]: https://arxiv.org/pdf/2106.13208.pdf)
+* 2022-04: One paper accepted to PNAS 2022 [Paper] (https://www.pnas.org/doi/abs/10.1073/pnas.2123111119)
+* 2022-03: One paper accepted to CVPR 2022 ([Paper]: https://arxiv.org/pdf/2106.06047.pdf)
