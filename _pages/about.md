@@ -13,7 +13,7 @@ Stanford, I was a postdoctoral research fellow at The University of North Caroli
 Dinggang Shen](http://idea.bme.shanghaitech.edu.cn). I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong
 Kong under the supervision of [Prof. Yandong Tang](http://vision.sia.cn/our%20team/YandongTang-homepage/vision-YandongTang%28English%29.html), Prof. Qingxiong Yang, and [Prof. Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/). 
 
-My research interests spans the area of artificial intelligence, computer vision and medical imaging processing, with a special focus on
+My research interests span the area of artificial intelligence, computer vision and medical imaging processing, with a special focus on
 1) deep learning-driven image acquisition and reconstruction, and 2) development of trustworthy medical AI system
 from imperfect medical data.
 
