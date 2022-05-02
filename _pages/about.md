@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral research fellow in Stanford University, working with [Prof. Daniel Rubin](https://rubinlab.stanford.edu/). Before joining
+I am currently a postdoctoral research fellow at Stanford University, working with [Prof. Daniel Rubin](https://rubinlab.stanford.edu/). Before joining
 Stanford, I was a postdoctoral research fellow at The University of North Carolina at Chapel Hill, working with [Prof.
 Dinggang Shen](http://idea.bme.shanghaitech.edu.cn). I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong
-Kong under the supervision of [Prof. Yandong Tang](http://vision.sia.cn/our%20team/YandongTang-homepage/vision-YandongTang%28English%29.html), Prof. Qingxiong Yang, and [Prof. Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/). 
+Kong under the supervision of [Prof. Yandong Tang](http://vision.sia.cn/our%20team/YandongTang-homepage/vision-YandongTang%28English%29.html), [Prof. Qingxiong Yang](https://scholar.google.com/citations?user=4WirkacAAAAJ&hl=zh-CN), and [Prof. Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/). 
 
 My research interests span the area of artificial intelligence, computer vision and medical imaging processing, with a special focus on
-1) deep learning-driven image acquisition and reconstruction, and 2) development of trustworthy medical AI system
+1) deep learning-driven image acquisition and reconstruction, and 2) the development of trustworthy medical AI systems
 from imperfect medical data.
 
 Please drop me an email if you are interested in doing research with me. I am happy to collaborate.
