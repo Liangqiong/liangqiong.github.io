@@ -22,7 +22,7 @@ Please drop me an email if you are interested in doing research with me. I am ha
 ***RECENT NEWS***
 * 2022-04: One paper accepted to MEDIA 2022 [Paper](https://arxiv.org/pdf/2106.13208.pdf)
 * 2022-04: One paper accepted to PNAS 2022 [Paper](https://www.pnas.org/doi/abs/10.1073/pnas.2123111119)
-* 2022-04：We are organizing a special session "Data processing and image analysis" in ICIRA 2022, please submit your paper [here] (https://icira2022.org/paper-submission-2/)
+* 2022-04：We are organizing a special session "Data processing and image analysis" in ICIRA 2022, please submit your paper [here](https://icira2022.org/paper-submission-2/)
 * 2022-03: One paper accepted to CVPR 2022 [Paper](https://arxiv.org/pdf/2106.06047.pdf)
 * 2022-03: We are oganizing a special issue ("Transformer in the Field of Medical Image Analysis") on jornal Frontiers in Radiology. Please submit paper [here](https://www.frontiersin.org/research-topics/33732/transformer-in-the-field-of-medical-image-analysis)
 
