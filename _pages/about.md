@@ -20,6 +20,8 @@ from imperfect medical data.
 Please drop me an email if you are interested in doing research with me. I am happy to collaborate.
 
 ***RECENT NEWS***
+* 2022-06: One paper accepted to IEEE JBHI 2022 [Paper](https://arxiv.org/abs/2107.02375)
+* 2022-05: One paper accepted to Nature Nanotechnology 2022 [Paper](https://arxiv.org/pdf/2106.13208.pdf](https://www.nature.com/articles/s41565-022-01130-3)
 * 2022-04: One paper accepted to MEDIA 2022 [Paper](https://arxiv.org/pdf/2106.13208.pdf)
 * 2022-04: One paper accepted to PNAS 2022 [Paper](https://www.pnas.org/doi/abs/10.1073/pnas.2123111119)
 * 2022-04：We are organizing a special session "Data processing and image analysis" in ICIRA 2022, please submit your paper [here](https://icira2022.org/paper-submission-2/)
