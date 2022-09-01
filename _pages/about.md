@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will be joining The University of HongKong as Assitant Professor in the end of this year. <span style="color: red;"> I am looking for self-motivated Ph.D. students/interns to join my group in Spring 2023 or Fall 2023. Please drop me an email if you are interested. </span>
+I will be joining The University of HongKong as Assitant Professor in the end of this year. <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Ph.D. students/interns to join my group in Spring 2023 or Fall 2023. Please drop me an email if you are interested. </span>
 
 
 
