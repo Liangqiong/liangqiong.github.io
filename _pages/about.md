@@ -20,8 +20,6 @@ My research interests span the area of artificial intelligence, computer vision 
 1) deep learning-driven image acquisition and reconstruction, and 2) the development of trustworthy medical AI systems
 from imperfect medical data.
 
-Please drop me an email if you are interested in doing research with me. I am happy to collaborate.
-
 ***RECENT NEWS***
 * 2022-06: One paper accepted to IEEE JBHI 2022 [Paper](https://ieeexplore.ieee.org/abstract/document/9806163)
 * 2022-05: One paper accepted to Nature Nanotechnology 2022 [Paper](https://www.nature.com/articles/s41565-022-01130-3)
