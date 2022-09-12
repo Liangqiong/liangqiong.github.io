@@ -23,6 +23,7 @@ My research interests span the area of artificial intelligence, computer vision 
 from imperfect medical data.
 
 ***RECENT NEWS***
+* 2022-09: I am serving as an area chair for [ML4H 2022](https://ml4health.github.io/2022/)
 * 2022-06: One paper accepted to IEEE JBHI 2022 [Paper](https://ieeexplore.ieee.org/abstract/document/9806163)
 * 2022-05: One paper accepted to Nature Nanotechnology 2022 [Paper](https://www.nature.com/articles/s41565-022-01130-3)
 * 2022-04: One paper accepted to MEDIA 2022 [Paper](https://arxiv.org/pdf/2106.13208.pdf)
