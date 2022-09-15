@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will be joining the Institute of Data Science and the Department of Statistics and Actuarial Science at The University of Hong Kong as an Assistant Professor in the end of this year.  <span style="color:blue;font-weight:bold;"> 
+I will be joining the Institute of Data Science and the Department of Statistics and Actuarial Science at The University of Hong Kong as an Assistant Professor in the end of this year. 
   
-I am looking for self-motivated Ph.D. students/interns to join my group in Spring 2023 or Fall 2023. Please drop me an email if you are interested. </span>
+ <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Ph.D. students/interns to join my group in Spring 2023 or Fall 2023. Please drop me an email if you are interested. </span>
 
 I am currently a postdoctoral research fellow at Stanford University, working with [Prof. Daniel Rubin](https://rubinlab.stanford.edu/). Before joining
 Stanford, I was a postdoctoral research fellow at The University of North Carolina at Chapel Hill, working with [Prof.
