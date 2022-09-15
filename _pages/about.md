@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will start my faculty career in the end of this year. 
-
-<span style="color:blue;font-weight:bold;"> I am looking for self-motivated Ph.D. students/interns to join my group in Spring 2023 or Fall 2023. Please drop me an email if you are interested. </span>
+I will be joining the Institute of Data Science and the Department of Statistics and Actuarial Science at the University of Hong Kong as an Assistant Professor in the end of this year.  <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Ph.D. students/interns to join my group in Spring 2023 or Fall 2023. Please drop me an email if you are interested. </span>
 
 
 
