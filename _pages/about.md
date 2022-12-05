@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will be joining the Institute of Data Science and the Department of Statistics and Actuarial Science at The University of Hong Kong as an Assistant Professor in the end of this year. 
+I am an Assistant Professor in the Department of Statistics and Actuarial Science and the Institute of Data Science at The University of Hong Kong. 
   
  <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Ph.D. students/interns to join my group in Spring 2023 or Fall 2023. Please drop me an email if you are interested. </span>
 
-I am currently a postdoctoral research fellow at Stanford University, working with [Prof. Daniel Rubin](https://rubinlab.stanford.edu/). Before joining
+Previously, I was a postdoctoral research fellow at Stanford University, working with [Prof. Daniel Rubin](https://rubinlab.stanford.edu/). Before joining
 Stanford, I was a postdoctoral research fellow at The University of North Carolina at Chapel Hill, working with [Prof.
 Dinggang Shen](http://idea.bme.shanghaitech.edu.cn). I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong
 Kong under the supervision of [Prof. Yandong Tang](http://vision.sia.cn/our%20team/YandongTang-homepage/vision-YandongTang%28English%29.html), [Prof. Qingxiong Yang](https://scholar.google.com/citations?user=4WirkacAAAAJ&hl=zh-CN), and [Prof. Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/). 
