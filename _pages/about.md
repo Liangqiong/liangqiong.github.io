@@ -21,7 +21,7 @@ My research interests span the area of artificial intelligence, computer vision 
 from imperfect medical data.
 
 ***RECENT NEWS***
-* 2023-01：One paper accepted to EJNMMI (European Journal of Nuclear Medicine and Molecular Imaging) [Paper] (https://link.springer.com/article/10.1007/s00259-022-06097-w)
+* 2023-01：One paper accepted to EJNMMI (European Journal of Nuclear Medicine and Molecular Imaging) [Paper](https://link.springer.com/article/10.1007/s00259-022-06097-w)
 * 2023-01: One paper accepted to IEEE TMI [Paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=10004993)
 * 2022-09: I am serving as an area chair for [ML4H 2022](https://ml4health.github.io/2022/)
 * 2022-06: One paper accepted to IEEE JBHI 2022 [Paper](https://ieeexplore.ieee.org/abstract/document/9806163)
