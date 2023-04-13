@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an Assistant Professor in the [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/staff/liangqqu/) and the [Institute of Data Science](https://datascience.hku.hk/people/liangqiong-qu/) at The University of Hong Kong. 
   
- <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Ph.D. students/interns to join my group in Spring 2023 or Fall 2023. Please drop me an email if you are interested. </span>
+ <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Ph.D. students and remote interns to join my group in Fall 2023/2024. Please drop me an email if you are interested. </span>
 
 Previously, I was a postdoctoral research fellow at Stanford University, working with [Prof. Daniel Rubin](https://rubinlab.stanford.edu/). Before joining
 Stanford, I was a postdoctoral research fellow at The University of North Carolina at Chapel Hill, working with [Prof.
