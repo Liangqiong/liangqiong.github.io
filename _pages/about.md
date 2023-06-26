@@ -21,7 +21,7 @@ My research interests span the area of artificial intelligence, computer vision 
 from imperfect medical data.
 
 ***RECENT NEWS***
-*2023-06: Our paper on GNNs has won the best paper award for the methods track on CHIL 2023 [Paper](https://proceedings.mlr.press/v209/tang23a.html)
+* 2023-06: Our paper on GNNs has won the best paper award for the methods track on CHIL 2023 [Paper](https://proceedings.mlr.press/v209/tang23a.html)
 * 2023-05：Our book chapter about Multi-modal MRI Synthesis is online [Chapter](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003243458-14/multimodality-mri-synthesis-liangqiong-qu-yongqin-zhang-zhiming-cheng-shuang-zeng-xiaodan-zhang-yuyin-zhou)
 * 2023-05：One paper accepted to Radiology: Artificial Intelligence [Paper](https://pubs.rsna.org/doi/abs/10.1148/ryai.220246)
 * 2023-03：One paper accepted to IEEE TMM [Paper](https://ieeexplore.ieee.org/document/10058544)
