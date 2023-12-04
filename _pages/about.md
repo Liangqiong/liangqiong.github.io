@@ -21,7 +21,7 @@ My research interests span the area of artificial intelligence, computer vision 
 from imperfect medical data.
 
 ***RECENT NEWS***
-* 2023-10: One paper accepted to EMNLP 2023.
+* 2023-10: One paper accepted to EMNLP 2023 [Paper](https://openreview.net/pdf?id=bB32QLrpu4).
 * 2023-08: Our dataset with paired T1 and T2-weighted MR images (3T & 7T) of 10 healthy subjects is now available in Scientific Data. Enjoy! [Paper](https://www.nature.com/articles/s41597-023-02400-y)
 * 2023-06: Our paper on GNNs has won the best paper award for the methods track on CHIL 2023 [Paper](https://proceedings.mlr.press/v209/tang23a.html)
 * 2023-05：Our book chapter about Multi-modal MRI Synthesis is online [Chapter](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003243458-14/multimodality-mri-synthesis-liangqiong-qu-yongqin-zhang-zhiming-cheng-shuang-zeng-xiaodan-zhang-yuyin-zhou)
