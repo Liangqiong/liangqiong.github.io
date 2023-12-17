@@ -20,7 +20,7 @@ Undergraduate & masters
 - **Nan Zhang** (2023 summer intern, ZJU)
 - **Yifan Wu** (2023 summer intern, NTU) 
 
- Alumni
+Alumni
  ======
 - **Jiawei Liu** (Co-supervised PhD at UCAS, now faculty at UCAS)
 - **[Miao Zhang](https://miaozhng.github.io/)** (MSc intern from Stanford in 2020, now PhD at NYU)
