@@ -21,7 +21,7 @@ Undergraduate & masters
 - **Yifan Wu** (2023 summer intern, NTU) 
 
 Alumni
- ======
+======
 - **Jiawei Liu** (Co-supervised PhD at UCAS, now faculty at UCAS)
 - **[Miao Zhang](https://miaozhng.github.io/)** (MSc intern from Stanford in 2020, now PhD at NYU)
 - **Justin Wang** （MSc intern, now at AMAZON）
