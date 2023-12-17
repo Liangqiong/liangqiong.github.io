@@ -17,7 +17,6 @@ Undergraduate & masters
 - **Hao Lin** (MSc at HKU)
 - **Ruixi Wang** (2023 summer intern, BUAA)
 - **Jianwen Chen** (2023 summer intern, CUHK-SZ)
-- **Nan Zhang** (2023 summer intern, ZJU)
 - **Yifan Wu** (2023 summer intern, NTU) 
 
 Alumni
