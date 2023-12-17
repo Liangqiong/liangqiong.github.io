@@ -1,3 +1,9 @@
+---
+layout: archive
+permalink: /students/
+author_profile: true
+---
+
 ##  PhD Students
 - **Pengxin Guo** (PhD student, 2023)***, MPhil at SUSTC.
 - **Xing Xie** (affiliated PhD student at UCAS, 2023), co-supervised with Prof. Yandong Tang.
