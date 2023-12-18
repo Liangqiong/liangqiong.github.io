@@ -5,10 +5,10 @@ permalink: /students/
 author_profile: true
 ---
 - **Pengxin Guo** (PhD student, 2023), MPhil at SUSTC.
-- **Xing Xie** (affiliated PhD student at UCAS, 2023), co-supervised with Prof. Yandong Tang.
+- **Xing Xie** (affiliated PhD student at UCAS, 2023)
 - **Weiying Zheng** (PhD student, 2024), MPhil at SCUT.
-- **Yinong Wang** (PhD student, 2024),  Co-supervised with [Prof. Feifei Wang](https://www.eee.hku.hk/~ffwang/), BSc at SCUT.
-
+- **Yinong Wang** (PhD student, 2024)
+  
 Undergraduate & masters
 ======
 - **Shuang Zeng** (MSc at HKU)
