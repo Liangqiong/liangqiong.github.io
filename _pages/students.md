@@ -17,6 +17,7 @@ Undergraduate & masters
 - **Ruixi Wang** (2023 summer intern, BUAA)
 - **Jianwen Chen** (2023 summer intern, CUHK-SZ)
 - **Yinong Wang** (2023 summer intern, SCUT)
+- **Nan Zhang** (2023 summer intern, ZJU)
 
 Alumni
 ======
