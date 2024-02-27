@@ -7,9 +7,10 @@ author_profile: true
 
 You can find my full publication list on my [Google Scholar profile](https://scholar.google.com/citations?user=ruKpgzwAAAAJ&hl=zh-CN) or my [Researchgate profile](https://www.researchgate.net/profile/Liangqiong-Qu-2).
 
--
+- [CVPR 2024] ***Residual Denoising Diffusion Models***. 
+ <span style="color:blue;"> Jiawei Liu, Qiang Wang, Huijie Fan, Yinong Wang, Yandong Tang, Liangqiong Qu. ([Paper](https://arxiv.org/pdf/2308.13712.pdf), [Code](https://github.com/nachifur/RDDM) )
 - [Radiology: AI 2023] ***AI Transformers for Radiation Dose Reduction in Serial Whole-Body PET Scans***.
- <span style="color:blue;"> Yan-Ran (Joyce) Wang*, Liangqiong Qu*, Natasha Diba Sheybani, Xiaolong Luo, Jiangshan Wang, Kristina Elizabeth Hawk, Ashok Joseph Theruvath, Sergios Gatidis, Xuerong Xiao, Allison Pribnow, Daniel Rubin, Heike E. Daldrup-Link. (Co-first authors) ([Paper](https://pubs.rsna.org/doi/full/10.1148/ryai.220246))
+ <span style="color:blue;"> Yan-Ran (Joyce) Wang*, Liangqiong Qu*, Natasha Diba Sheybani, Xiaolong Luo, Jiangshan Wang, Kristina Elizabeth Hawk, Ashok Joseph Theruvath, Sergios Gatidis, Xuerong Xiao, Allison Pribnow, Daniel Rubin, Heike E. Daldrup-Link. ([Paper](https://pubs.rsna.org/doi/full/10.1148/ryai.220246))
 - [TMI 2023] ***Label-Efficient Self-Supervised Federated Learning for Tackling Data Heterogeneity in Medical Imaging***.
 Rui Yan, Liangqiong Qu, Qingyue Wei, Shih-Cheng Huang, Liyue Shen, Daniel Rubin, Lei Xing, Yuyin Zhou. ([Paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=10004993&tag=1), [Code](https://github.com/rui-yan/SSL-FL))
 - [IEEE JBHI 2022] ***Splitavg: A heterogeneity-aware federated deep learning method for medical imaging***.
