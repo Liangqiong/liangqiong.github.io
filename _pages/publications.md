@@ -9,7 +9,7 @@ You can find my full publication list on my [Google Scholar profile](https://sch
 
 
 - [CVPR 2024] **FLHetBench: Benchmarking Device and State Heterogeneity in Federated Learning**. 
- <span style="color:blue;"> Junyuan Zhang, Shuang Zeng, Miao Zhang, Runxi Wang, Feifei Wang, Yuyin Zhou, Paul Pu Liang, **Liangqiong Qu**. 
+ <br> <span style="color:blue;"> Junyuan Zhang, Shuang Zeng, Miao Zhang, Runxi Wang, Feifei Wang, Yuyin Zhou, Paul Pu Liang, **Liangqiong Qu**. 
 - [CVPR 2024] **Residual Denoising Diffusion Models**. 
  <span style="color:blue;"> Jiawei Liu, Qiang Wang, Huijie Fan, Yinong Wang, Yandong Tang, **Liangqiong Qu**. ([Paper](https://arxiv.org/pdf/2308.13712.pdf), [Code](https://github.com/nachifur/RDDM) )
 - [CVPR 2024] **Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**. 
