@@ -21,6 +21,8 @@ My research interests span the area of artificial intelligence, computer vision 
 from imperfect medical data.
 
 ***RECENT NEWS***
+* 2024-02: Three papers accepted to IEEE CVPR 2024.
+* 2024-02: One paper accepted to IEEE Trans Geosci Remote Sens. 2024.
 * 2023-12: One paper accepted to AAAI 2024.
 * 2023-10: One paper about medical report generation was accepted to EMNLP 2023 (Oral Presentation) [Paper](https://openreview.net/pdf?id=bB32QLrpu4).
 * 2023-08: Our dataset with paired T1 and T2-weighted MR images (3T & 7T) of 10 healthy subjects is now available in Scientific Data. Enjoy! [Paper](https://www.nature.com/articles/s41597-023-02400-y)
