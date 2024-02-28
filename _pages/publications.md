@@ -25,7 +25,9 @@ You can find my full publication list on my [Google Scholar profile](https://sch
 - [IEEE CVPR 2022] **Rethinking architecture design for tackling data heterogeneity in federated learning**. ([Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.pdf), [Code](https://github.com/Liangqiong/ViT-FL-main))
 <br> <span style="color:blue;"> **Liangqiong Qu**<sup>#</sup>, Yuyin Zhou<sup>#</sup>, Paul Pu Liang<sup>#</sup>, Yingda Xia, Feifei Wang, Ehsan Adeli, Li Fei-Fei, Daniel Rubin. 
 - [MeDIA 2020] **Synthesized 7T MRI from 3T MRI via deep learning in spatial and wavelet domains**. ([Paper](https://www.sciencedirect.com/science/article/pii/S1361841520300293?casa_token=EOp1ZQaY6-wAAAAA:ZDlOHj_p9PlXDc2QtF7hAyzlYS-dqP0vYLJ_tcFD7afoo1w68-EHixRkyYWVAduqz2_mHNHRQA), [Code](https://github.com/Liangqiong/WATNet))
- <br> <span style="color:blue;"> **Liangqiong Qu**, Yongqin Zhang, Shuai Wang, Pew-Thian Yap, Dinggang Shen. 
+ <br> <span style="color:blue;"> **Liangqiong Qu**, Yongqin Zhang, Shuai Wang, Pew-Thian Yap, Dinggang Shen.
+- [MICCAI 2019] **Wavelet-based Semi-supervised Adversarial Learning for Synthesizing Realistic 7T from 3T MRI**. ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_86)) <span style="color:red;"> (Oral) 
+ <br> <span style="color:blue;"> **Liangqiong Qu**, Shuai Wang, Pew-Thian Yap, Dinggang Shen. 
 - [IEEE CVPR 2017] **DeshadowNet: A Multi-context Embedding Deep Network for Shadow Removal**. ([Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf), [Code](https://pan.baidu.com/s/1cKRVJMbemvTOlJgZqk2Nyw), [Training dataset](https://drive.google.com/file/d/1W8vBRJYDG9imMgr9I2XaA13tlFIEHOjS/view), [Test dataset](https://hkuhk-my.sharepoint.com/:f:/g/personal/liangqqu_hku_hk/EqgW2IasbE1NtxtCycnaew4B6JQLsID1SQHUjGr9YwC3Fg?e=9uqw4C)) <span style="color:red;"> (Spotlight)
 <br> <span style="color:blue;"> **Liangqiong Qu**, Jiandong Tian, Shengfeng He, Yandong Tang, and Rynson W.H. Lau. 
 
