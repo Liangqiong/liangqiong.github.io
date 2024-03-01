@@ -15,7 +15,10 @@ You can find my full publication list on my [Google Scholar profile](https://sch
 - [CVPR 2024] **Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**. 
 <br> <span style="color:blue;"> Zhiheng Cheng, Qingyue Wei, Hongru Zhu, Yan Wang, **Liangqiong Qu**, Wei Shao, Yuyin Zhou.
 - [Radiology: AI 2023] **AI Transformers for Radiation Dose Reduction in Serial Whole-Body PET Scans**. ([Paper](https://pubs.rsna.org/doi/full/10.1148/ryai.220246))
-<br> <span style="color:blue;"> Yan-Ran (Joyce) Wang<sup>#</sup>, **Liangqiong Qu**<sup>#</sup>, Natasha Diba Sheybani, Xiaolong Luo, Jiangshan Wang, Kristina Elizabeth Hawk, Ashok Joseph Theruvath, Sergios Gatidis, Xuerong Xiao, Allison Pribnow, Daniel Rubin, Heike E. Daldrup-Link. 
+<br> <span style="color:blue;"> Yan-Ran (Joyce) Wang<sup>#</sup>, **Liangqiong Qu**<sup>#</sup>, Natasha Diba Sheybani, Xiaolong Luo, Jiangshan Wang, Kristina Elizabeth Hawk, Ashok Joseph Theruvath, Sergios Gatidis, Xuerong Xiao, Allison Pribnow, Daniel Rubin, Heike E. Daldrup-Link.
+- [EMNLP 2023] **Granularity Matters: Pathological Graph-driven Cross-modal Alignment
+for Brain CT Report Generation**. ([Paper](https://openreview.net/pdf?id=bB32QLrpu4)) <span style="color:red;"> (Oral) 
+<br> <span style="color:blue;"> Yanzhao Shi, Junzhong Ji, Xiaodan Zhang<sup>*</sup>, **Liangqiong Qu**<sup>*</sup>, and Ying Liu.
 - [TMI 2023] **Label-Efficient Self-Supervised Federated Learning for Tackling Data Heterogeneity in Medical Imaging**. ([Paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=10004993&tag=1), [Code](https://github.com/rui-yan/SSL-FL))
 <br> <span style="color:blue;"> Rui Yan, **Liangqiong Qu**, Qingyue Wei, Shih-Cheng Huang, Liyue Shen, Daniel Rubin, Lei Xing, Yuyin Zhou.
 - [CHIL 2023] **Spatiotemporal Modeling of Multivariate Signals With Graph Neural Networks and Structured State Space Models**. ([Paper](https://arxiv.org/pdf/2211.11176.pdf), [Code](https://github.com/tsy935/graphs4mer)) <span style="color:red;"> (Best Paper)
