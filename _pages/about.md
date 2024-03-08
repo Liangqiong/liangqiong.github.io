@@ -21,6 +21,7 @@ My research interests span the area of artificial intelligence, computer vision 
 from imperfect medical data.
 
 ***RECENT NEWS***
+* 2024-02: We are organizing a special issue ["Artificial Intelligence Applications in Ophthalmology"](https://www.mdpi.com/journal/bioengineering/special_issues/LV7G016I1W) on Bioengineering Indexed by SCIE (IF 4.6), Scopus (CiteScore 4.2). Deadline for manuscript submissions: 31 July 2024. 
 * 2024-02: Three papers accepted to IEEE CVPR 2024.
 * 2024-02: One paper accepted to IEEE Trans Geosci Remote Sens. 2024.
 * 2023-12: One paper accepted to AAAI 2024.
