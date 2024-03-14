@@ -4,17 +4,15 @@ title: "PhD Students"
 permalink: /students/
 author_profile: true
 ---
-- **Pengxin Guo** (PhD student, 2023), MPhil at SUSTC
-- **Xing Xie** (affiliated PhD student at UCAS, 2023)
-- **Weiying Zheng** (PhD student, 2024), MPhil at SCUT
-- **Yinong Wang** (PhD student, 2024), BSc at SCUT
+- **Pengxin Guo** (PhD student, 2023 Fall), MPhil at SUSTC
+- **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall)
+- **Weiying Zheng** (Incoming PhD student, 2024 Fall), MPhil at SCUT
+- **Yinong Wang** (Incoming PhD student, 2024 Fall), BSc at SCUT
   
 Undergraduate & masters
 ======
-- **Shuang Zeng** (MSc at HKU)
 - **Xiangcheng Zhan** (MSc at HKU)
 - **Hao Lin** (MSc at HKU)
-- **Ruixi Wang** (2023 summer intern, BUAA)
 - **Jianwen Chen** (2023 summer intern, CUHK-SZ)
 - **Yinong Wang** (2023 summer intern, SCUT)
 - **Nan Zhang** (2023 summer intern, ZJU)
@@ -26,6 +24,10 @@ Alumni
 - **Justin Wang** （MSc intern, now at AMAZON）
 - **Junyuan Zhang** (Undergraduate intern from BUAA in 2023)
 - **Yuling Yang** (MSc intern from SUFE in 2023, now PhD at NEU)
+- **Shuang Zeng** (MSc intern from HKU in 2023, now PhD at HKU)
+- **Ruixi Wang** (Undergraduate intern from BUAA in 2023)
+
+
 
 
 
