@@ -11,8 +11,6 @@ author_profile: true
   
 Undergraduate & masters
 ======
-- **Xiangcheng Zhan** (MSc at HKU)
-- **Hao Lin** (MSc at HKU)
 - **Jianwen Chen** (2023 summer intern, CUHK-SZ)
 - **Yinong Wang** (2023 summer intern, SCUT)
 - **Nan Zhang** (2023 summer intern, ZJU)
@@ -26,6 +24,8 @@ Alumni
 - **Yuling Yang** (MSc intern from SUFE in 2023, now PhD at NEU)
 - **Shuang Zeng** (MSc intern from HKU in 2023, now PhD at HKU)
 - **Ruixi Wang** (Undergraduate intern from BUAA in 2023)
+- **Xiangcheng Zhan** (MSc intern from HKU in 2023)
+- **Hao Lin** (MSc intern from HKU in in 2023)
 
 
 
