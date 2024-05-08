@@ -24,7 +24,7 @@ Alumni
 - **Shuang Zeng** (MSc intern from HKU in 2023 -> PhD at HKU)
 - **Ruixi Wang** (Undergraduate intern from BUAA in 2023 -> MSc at HKU)
 - **Xiangcheng Zhan** (MSc intern from HKU in 2023)
-- **Hao Lin** (MSc intern from HKU in in 2023)
+- **Hao Lin** (MSc intern from HKU in 2023)
 - **Nan Zhang** (Undergraduate summer intern from ZJU in 2023 -> PhD at UIUC)
 
 
