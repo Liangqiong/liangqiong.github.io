@@ -19,13 +19,14 @@ Alumni
 - **Jiawei Liu** (Co-supervised PhD at UCAS -> faculty at UCAS)
 - **[Miao Zhang](https://miaozhng.github.io/)** (MSc intern from Stanford in 2020 -> PhD at NYU)
 - **Justin Wang** （MSc intern from Stanford in 2021 -> AMAZON）
+- **Yuling Yang** (MSc intern from SUFE in 2022 -> PhD at NEU)
 - **Junyuan Zhang** (Undergraduate intern from BUAA in 2023 -> PhD at NUS)
-- **Yuling Yang** (MSc intern from SUFE in 2023 -> PhD at NEU)
 - **Shuang Zeng** (MSc intern from HKU in 2023 -> PhD at HKU)
 - **Ruixi Wang** (Undergraduate intern from BUAA in 2023 -> MSc at HKU)
+- **Nan Zhang** (Undergraduate intern from ZJU in 2023 -> PhD at UIUC)
+- **Wenhao Chen** (Undergraduate intern from UWO in 2023 -> MSc at Cambridge)
 - **Xiangcheng Zhan** (MSc intern from HKU in 2023)
 - **Hao Lin** (MSc intern from HKU in 2023)
-- **Nan Zhang** (Undergraduate summer intern from ZJU in 2023 -> PhD at UIUC)
 
 
 
