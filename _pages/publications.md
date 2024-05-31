@@ -1,4 +1,4 @@
-![image](https://github.com/Liangqiong/liangqiong.github.io/assets/26383542/a7005658-7ae3-4c63-b493-865cd9a02c93)---
+---
 layout: archive
 title: "Selected Publications"
 permalink: /publications/
