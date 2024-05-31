@@ -12,7 +12,7 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
  <br> <span style="color:blue;"> Junyuan Zhang<sup>*</sup>, Shuang Zeng<sup>*</sup>, Miao Zhang, Runxi Wang, Feifei Wang, Yuyin Zhou, Paul Pu Liang, **Liangqiong Qu**<sup>#</sup>. 
 - [CVPR 2024] **Residual Denoising Diffusion Models**. ([Paper](https://arxiv.org/pdf/2308.13712.pdf), [Code](https://github.com/nachifur/RDDM) )
  <br> <span style="color:blue;"> Jiawei Liu, Qiang Wang, Huijie Fan<sup>#</sup>, Yinong Wang, Yandong Tang, **Liangqiong Qu**<sup>#</sup>. 
-- [CVPR 2024] **Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**. 
+- [CVPR 2024] **Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**. ([Paper](https://arxiv.org/pdf/2403.18271), [Code](https://github.com/Cccccczh404/H-SAM) )
 <br> <span style="color:blue;"> Zhiheng Cheng, Qingyue Wei, Hongru Zhu, Yan Wang, **Liangqiong Qu**, Wei Shao, Yuyin Zhou.
 - [MICCAI 2024] **Tackling Data Heterogeneity in Federated Learning via Loss Decomposition**. 
 <br> <span style="color:blue;"> Shuang Zeng<sup>*</sup>, Pengxin Guo<sup>*</sup>, Shuai Wang, Jianbo Wang, Yuyin Zhou, and Liangqiong Qu<sup>#</sup>.
