@@ -14,7 +14,7 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
  <br> <span style="color:blue;"> Jiawei Liu, Qiang Wang, Huijie Fan<sup>#</sup>, Yinong Wang, Yandong Tang, **Liangqiong Qu**<sup>#</sup>. 
 - [CVPR 2024] **Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**. 
 <br> <span style="color:blue;"> Zhiheng Cheng, Qingyue Wei, Hongru Zhu, Yan Wang, **Liangqiong Qu**, Wei Shao, Yuyin Zhou.
-- [CVPR 2024] **Tackling Data Heterogeneity in Federated Learning via Loss Decomposition**. 
+- [MICCAI 2024] **Tackling Data Heterogeneity in Federated Learning via Loss Decomposition**. 
 <br> <span style="color:blue;"> Shuang Zeng<sup>*</sup>, Pengxin Guo<sup>*</sup>, Shuai Wang, Jianbo Wang, Yuyin Zhou, and Liangqiong Qu<sup>#</sup>.
 - [Radiology: AI 2023] **AI Transformers for Radiation Dose Reduction in Serial Whole-Body PET Scans**. ([Paper](https://pubs.rsna.org/doi/full/10.1148/ryai.220246))
 <br> <span style="color:blue;"> Yan-Ran (Joyce) Wang<sup>*</sup>, **Liangqiong Qu**<sup>*</sup>, Natasha Diba Sheybani, Xiaolong Luo, Jiangshan Wang, Kristina Elizabeth Hawk, Ashok Joseph Theruvath, Sergios Gatidis, Xuerong Xiao, Allison Pribnow, Daniel Rubin, Heike E. Daldrup-Link.
