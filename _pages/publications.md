@@ -26,7 +26,7 @@ for Brain CT Report Generation**. ([Paper](https://openreview.net/pdf?id=bB32QLr
 - [CHIL 2023] **Spatiotemporal Modeling of Multivariate Signals With Graph Neural Networks and Structured State Space Models**. ([Paper](https://arxiv.org/pdf/2211.11176.pdf), [Code](https://github.com/tsy935/graphs4mer)) <span style="color:red;"> (Best Paper)
 <br> <span style="color:blue;"> Siyi Tang, Jared Dunnmon, **Liangqiong Qu**, Khaled Saab, Tina Baykaner, Christopher Lee-Messer, and Daniel Rubin.
 - [IEEE JBHI 2022] **Splitavg: A Heterogeneity-aware Federated Deep Learning Method for Medical Imaging**. ([Paper](https://ieeexplore.ieee.org/abstract/document/9806163), [Code](https://github.com/zm17943/SplitAVG))
-<br> <span style="color:blue;"> Miao Zhang<sup>#</sup>, **Liangqiong Qu** <sup>#</sup><sup>*</sup>, Praveer Singh, Jayashree Kalpathy-Cramer, Daniel L. Rubin *. 
+<br> <span style="color:blue;"> Miao Zhang<sup>*</sup>, **Liangqiong Qu** <sup>#</sup><sup>*</sup>, Praveer Singh, Jayashree Kalpathy-Cramer, Daniel L. Rubin <sup>#</sup>. 
 - [IEEE CVPR 2022] **Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning**. ([Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.pdf), [Code](https://github.com/Liangqiong/ViT-FL-main))
 <br> <span style="color:blue;"> **Liangqiong Qu**<sup>*</sup>, Yuyin Zhou<sup>*</sup>, Paul Pu Liang<sup>*</sup>, Yingda Xia, Feifei Wang, Ehsan Adeli, Li Fei-Fei, Daniel Rubin.
 - [PNAS 2022] **High Precision Tumor Resection Down to Few-Cell Level Guided
