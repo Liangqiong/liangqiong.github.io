@@ -8,6 +8,8 @@ author_profile: true
 - **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall)
 - **Weiying Zheng** (Incoming PhD student, 2024 Fall), MPhil at SCUT
 - **Yinong Wang** (Incoming PhD student, 2024 Fall), BSc at SCUT
+- **Yuyuan Chen** (Incoming PhD student, 2024 Fall), Co-supervised with [Prof. Wang](https://www.eee.hku.hk/~ffwang/index.html)
+
   
 Undergraduate & masters
 ======
