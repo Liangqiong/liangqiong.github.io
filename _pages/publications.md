@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my full publication list on my [Google Scholar Profile](https://scholar.google.com/citations?user=ruKpgzwAAAAJ&hl=zh-CN) or my [Researchgate Profile](https://www.researchgate.net/profile/Liangqiong-Qu-2). <br>
+You can find my full publication list on my [Google Scholar Profile](https://scholar.google.com/citations?user=ruKpgzwAAAAJ&hl=zh-CN) or my [ResearchGate Profile](https://www.researchgate.net/profile/Liangqiong-Qu-2). <br>
 **Remark**: <sup>*</sup> Co-first authors,  <sup>#</sup> Corresponding or Co-corresponding authors
 
 - [CVPR 2024] **FLHetBench: Benchmarking Device and State Heterogeneity in Federated Learning**. ([Project page](https://carkham.github.io/FL_Het_Bench/))
