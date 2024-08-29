@@ -6,16 +6,19 @@ author_profile: true
 ---
 - **Pengxin Guo** (PhD student, 2023 Fall), MPhil at SUSTC
 - **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall)
-- **Weiying Zheng** (Incoming PhD student, 2024 Fall), MPhil at SCUT
-- **Yinong Wang** (Incoming PhD student, 2024 Fall), BSc at SCUT
-- **Yuyuan Chen** (Incoming PhD student, 2024 Fall,  Co-Supervised)
+- **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT
+- **Yinong Wang** (PhD student, 2024 Fall), BSc at SCUT
+- **Yuyuan Chen** (PhD student, 2024 Fall,  Co-Supervised with Prof. Wang)
 
   
 Undergraduate & masters
 ======
 - **Jianwen Chen** (2023 summer intern, CUHK-SZ)
-- **Yinong Wang** (2023 summer intern, SCUT)
+- **Haoning Jiang** (2024 summer intern, SUSTech)
+- **Tianyu Xin** (2024 summer intern, UESTC)
+- **Ziyue Lin** (MSc intern from HKU)
 
+  
 Alumni
 ======
 - **Jiawei Liu** (Co-supervised PhD at UCAS -> faculty at UCAS)
@@ -29,6 +32,9 @@ Alumni
 - **Wenhao Chen** (Undergraduate intern from UWO in 2023 -> MSc at Cambridge)
 - **Xiangcheng Zhan** (MSc intern from HKU in 2023)
 - **Hao Lin** (MSc intern from HKU in 2023)
+- **Yinong Wang** (Undergraduate intern from SCUT in 2023)
+- **Yun Zhang** (Undergraduate summer intern from UCLA in 2024)
+- **Ruitong Sun** (Undergraduate summer intern from Cambridge in 2024)
 
 
 
