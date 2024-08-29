@@ -13,10 +13,11 @@ author_profile: true
   
 Undergraduate & masters
 ======
-- **Jianwen Chen** (2023 summer intern, CUHK-SZ)
+- **Jianwen Chen** (2023 intern, CUHK-SZ)
 - **Haoning Jiang** (2024 summer intern, SUSTech)
 - **Tianyu Xin** (2024 summer intern, UESTC)
 - **Ziyue Lin** (MSc intern from HKU)
+- **Gaochen Yang** (2024 summer intern, TJU)
 
   
 Alumni
@@ -33,8 +34,8 @@ Alumni
 - **Xiangcheng Zhan** (MSc intern from HKU in 2023)
 - **Hao Lin** (MSc intern from HKU in 2023)
 - **Yinong Wang** (Undergraduate intern from SCUT in 2023)
-- **Yun Zhang** (Undergraduate summer intern from UCLA in 2024)
-- **Ruitong Sun** (Undergraduate summer intern from Cambridge in 2024)
+- **Yun Zhang** (Undergraduate intern of SRP 2024 from UCLA)
+- **Ruitong Sun** (Undergraduate intern of SRP 2024 from Cambridge)
 
 
 
