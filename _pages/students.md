@@ -32,7 +32,6 @@ Alumni
 - **Nan Zhang** (Undergraduate intern from ZJU in 2023 -> PhD at UIUC)
 - **Wenhao Chen** (Undergraduate intern from UWO in 2023 -> MSc at Cambridge)
 - **Xiangcheng Zhan** (MSc intern from HKU in 2023)
-- **Hao Lin** (MSc intern from HKU in 2023)
 - **Yinong Wang** (Undergraduate intern from SCUT in 2023)
 - **Yun Zhang** (Undergraduate intern of SRP 2024 from UCLA)
 - **Ruitong Sun** (Undergraduate intern of SRP 2024 from Cambridge)
