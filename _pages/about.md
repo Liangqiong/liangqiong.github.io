@@ -23,7 +23,7 @@ from imperfect medical data.
 ***RECENT NEWS***
 * 2024-10: One paper about report generation was accepted to EMNLP 2024 
 * 2024-06: One paper was accepted to Cancer Cell 2024 (IF: 50.3) [Paper](https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00227-7).
-* 2024-05: One paper about federated learning was accepted to MICCAI 2024 (Early Acceptance).
+* 2024-05: One paper about federated learning was accepted to MICCAI 2024 (Early Acceptance) [Paper](https://papers.miccai.org/miccai-2024/paper/1348_paper.pdf).
 * 2024-04: One paper about federated learning was accepted to TMLR 2024.
 * 2024-02: We are organizing a special issue ["Artificial Intelligence Applications in Ophthalmology"](https://www.mdpi.com/journal/bioengineering/special_issues/LV7G016I1W) on Bioengineering Indexed by SCIE (IF 4.6), Scopus (CiteScore 4.2). Deadline for manuscript submissions: 31 July 2024. 
 * 2024-02: Three papers accepted to IEEE CVPR 2024.
