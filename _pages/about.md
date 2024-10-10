@@ -21,6 +21,7 @@ My research interests span the area of artificial intelligence, computer vision 
 from imperfect medical data.
 
 ***RECENT NEWS***
+* 2024-10: One paper about report generation was accepted to EMNLP 2024 
 * 2024-06: One paper was accepted to Cancer Cell 2024 (IF: 50.3) [Paper](https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00227-7).
 * 2024-05: One paper about federated learning was accepted to MICCAI 2024 (Early Acceptance).
 * 2024-04: One paper about federated learning was accepted to TMLR 2024.
@@ -31,11 +32,6 @@ from imperfect medical data.
 * 2023-10: One paper about medical report generation was accepted to EMNLP 2023 (Oral Presentation) [Paper](https://openreview.net/pdf?id=bB32QLrpu4).
 * 2023-08: Our dataset with paired T1 and T2-weighted MR images (3T & 7T) of 10 healthy subjects is now available in Scientific Data. Enjoy! [Paper](https://www.nature.com/articles/s41597-023-02400-y)
 * 2023-06: Our paper on GNNs has won the best paper award for the methods track on CHIL 2023 [Paper](https://proceedings.mlr.press/v209/tang23a.html)
-* 2023-05：Our book chapter about Multi-modal MRI Synthesis is online [Chapter](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003243458-14/multimodality-mri-synthesis-liangqiong-qu-yongqin-zhang-zhiming-cheng-shuang-zeng-xiaodan-zhang-yuyin-zhou)
-* 2023-05：One paper accepted to Radiology: Artificial Intelligence [Paper](https://pubs.rsna.org/doi/abs/10.1148/ryai.220246)
-* 2023-03：One paper accepted to IEEE TMM [Paper](https://ieeexplore.ieee.org/document/10058544)
-* 2023-01：One paper accepted to EJNMMI (European Journal of Nuclear Medicine and Molecular Imaging) [Paper](https://link.springer.com/article/10.1007/s00259-022-06097-w)
-* 2023-01: One paper accepted to IEEE TMI [Paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=10004993)
-* 2022-09: I am serving as an area chair for [ML4H 2022](https://ml4health.github.io/2022/)
+
 
 
