@@ -17,7 +17,6 @@ Undergraduate & masters
 - **Haoning Jiang** (2024 summer intern, SUSTech)
 - **Tianyu Xin** (2024 summer intern, UESTC)
 - **Ziyue Lin** (MSc intern from HKU)
-- **Gaochen Yang** (2024 summer intern, TJU)
 
   
 Alumni
@@ -26,13 +25,13 @@ Alumni
 - **[Miao Zhang](https://miaozhng.github.io/)** (MSc intern from Stanford in 2020 -> PhD at NYU)
 - **Justin Wang** （MSc intern from Stanford in 2021 -> AMAZON）
 - **Yuling Yang** (MSc intern from SUFE in 2022 -> PhD at NEU)
-- **Junyuan Zhang** (Undergraduate intern from BUAA in 2023 -> PhD at NUS)
+- **Junyuan Zhang** (Undergraduate intern from BUAA in 2023 -> PhD at HKU)
 - **Shuang Zeng** (MSc intern from HKU in 2023 -> PhD at HKU)
 - **Ruixi Wang** (Undergraduate intern from BUAA in 2023 -> MSc at HKU)
 - **Nan Zhang** (Undergraduate intern from ZJU in 2023 -> PhD at UIUC)
 - **Wenhao Chen** (Undergraduate intern from UWO in 2023 -> MSc at Cambridge)
 - **Xiangcheng Zhan** (MSc intern from HKU in 2023)
-- **Yinong Wang** (Undergraduate intern from SCUT in 2023)
+- **Yinong Wang** (Undergraduate intern from SCUT in 2023-> PhD at HKU)
 - **Yun Zhang** (Undergraduate intern of SRP 2024 from UCLA)
 - **Ruitong Sun** (Undergraduate intern of SRP 2024 from Cambridge)
 
