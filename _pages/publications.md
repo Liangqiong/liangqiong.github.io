@@ -16,7 +16,7 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
  <br> <span style="color:blue;"> Pengxin Guo, Shuang Zeng, Wenhao Chen, Xiaodan Zhang, Weihong Ren, Yuyin Zhou, **Liangqiong Qu**<sup>#</sup>. 
 - [CVPR 2024] **Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**. ([Paper](https://arxiv.org/pdf/2403.18271), [Code](https://github.com/Cccccczh404/H-SAM) )
 <br> <span style="color:blue;"> Zhiheng Cheng, Qingyue Wei, Hongru Zhu, Yan Wang, **Liangqiong Qu**, Wei Shao, Yuyin Zhou.
-- [MICCAI 2024] **Tackling Data Heterogeneity in Federated Learning via Loss Decomposition**. 
+- [MICCAI 2024] **Tackling Data Heterogeneity in Federated Learning via Loss Decomposition**.   ([Paper](https://arxiv.org/abs/2408.12300), [Code](https://github.com/Zeng-Shuang/FedLD) )
 <br> <span style="color:blue;"> Shuang Zeng<sup>*</sup>, Pengxin Guo<sup>*</sup>, Shuai Wang, Jianbo Wang, Yuyin Zhou, and **Liangqiong Qu**<sup>#</sup>.
 - [Cancer Cell 2024] **Advancing Presurgical Non-invasive Molecular Subgroup Prediction in Medulloblastoma Using Artificial Intelligence and MRI Signatures**.  ([Paper](https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00227-7), [Code](https://lnkd.in/gBNJWCQP))
 <br> <span style="color:blue;"> Yan-Ran (Joyce) Wang, Pengcheng Wang, Zihan Yan, Quan Zhou, Fatma Gunturkun,
