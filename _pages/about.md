@@ -16,6 +16,7 @@ Previously, I was a postdoctoral research fellow at Stanford University and the 
 from imperfect medical data.
 
 ***RECENT NEWS***
+* 2024-10: Two papers were accepted to AAAI 2024 
 * 2024-10: One paper about report generation was accepted to EMNLP 2024 
 * 2024-06: One paper was accepted to Cancer Cell 2024 (IF: 50.3) [Paper](https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00227-7).
 * 2024-05: One paper about federated learning was accepted to MICCAI 2024 (Early Acceptance) [Paper](https://papers.miccai.org/miccai-2024/paper/1348_paper.pdf).
