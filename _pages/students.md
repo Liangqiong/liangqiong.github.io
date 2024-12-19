@@ -4,7 +4,7 @@ title: "PhD Students"
 permalink: /students/
 author_profile: true
 ---
-- **Pengxin Guo** (PhD student, 2023 Fall), MPhil at SUSTC
+- **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC
 - **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall)
 - **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT
 - **Yinong Wang** (PhD student, 2024 Fall), BSc at SCUT
