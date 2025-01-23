@@ -16,6 +16,7 @@ Previously, I was a postdoctoral research fellow at Stanford University and the 
 from imperfect medical data.
 
 ***RECENT NEWS***
+* 2025-01: One paper accepted to ICLR 2025 [Paper](https://arxiv.org/abs/2410.01463). 
 * 2024-10: Two papers accepted to AAAI 2025. 
 * 2024-10: One paper about report generation was accepted to EMNLP 2024. 
 * 2024-06: One paper was accepted to Cancer Cell 2024 (IF: 50.3) [Paper](https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00227-7).
