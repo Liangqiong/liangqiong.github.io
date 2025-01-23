@@ -38,7 +38,7 @@ for Brain CT Report Generation**. ([Paper](https://openreview.net/pdf?id=bB32QLr
 <br> <span style="color:blue;"> Siyi Tang, Jared Dunnmon, **Liangqiong Qu**, Khaled Saab, Tina Baykaner, Christopher Lee-Messer, and Daniel Rubin.
 - [IEEE JBHI 2022] **Splitavg: A Heterogeneity-aware Federated Deep Learning Method for Medical Imaging**. ([Paper](https://ieeexplore.ieee.org/abstract/document/9806163), [Code](https://github.com/zm17943/SplitAVG))
 <br> <span style="color:blue;"> Miao Zhang<sup>*</sup>, **Liangqiong Qu** <sup>#</sup><sup>*</sup>, Praveer Singh, Jayashree Kalpathy-Cramer, Daniel L. Rubin <sup>#</sup>. 
-- [IEEE CVPR 2022] **Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning**. ([Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.pdf), [Code](https://github.com/Liangqiong/ViT-FL-main))
+- [CVPR 2022] **Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning**. ([Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.pdf), [Code](https://github.com/Liangqiong/ViT-FL-main))
 <br> <span style="color:blue;"> **Liangqiong Qu**<sup>*</sup>, Yuyin Zhou<sup>*</sup>, Paul Pu Liang<sup>*</sup>, Yingda Xia, Feifei Wang, Ehsan Adeli, Li Fei-Fei, Daniel Rubin.
 - [PNAS 2022] **High Precision Tumor Resection Down to Few-Cell Level Guided
 by NIR-IIb Molecular Fluorescence Imaging**. ([Paper](https://www.pnas.org/doi/full/10.1073/pnas.2123111119))
@@ -47,7 +47,7 @@ by NIR-IIb Molecular Fluorescence Imaging**. ([Paper](https://www.pnas.org/doi/f
  <br> <span style="color:blue;"> **Liangqiong Qu**, Yongqin Zhang, Shuai Wang, Pew-Thian Yap, Dinggang Shen.
 - [MICCAI 2019] **Wavelet-based Semi-supervised Adversarial Learning for Synthesizing Realistic 7T from 3T MRI**. ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_86)) <span style="color:red;"> (Oral) 
  <br> <span style="color:blue;"> **Liangqiong Qu**, Shuai Wang, Pew-Thian Yap, Dinggang Shen. 
-- [IEEE CVPR 2017] **DeshadowNet: A Multi-context Embedding Deep Network for Shadow Removal**. ([Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf), [Code](https://pan.baidu.com/s/1cKRVJMbemvTOlJgZqk2Nyw), [Training dataset](https://drive.google.com/file/d/1W8vBRJYDG9imMgr9I2XaA13tlFIEHOjS/view), [Test dataset](https://hkuhk-my.sharepoint.com/:f:/g/personal/liangqqu_hku_hk/EqgW2IasbE1NtxtCycnaew4B6JQLsID1SQHUjGr9YwC3Fg?e=9uqw4C)) <span style="color:red;"> (Spotlight)
+- [CVPR 2017] **DeshadowNet: A Multi-context Embedding Deep Network for Shadow Removal**. ([Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf), [Code](https://pan.baidu.com/s/1cKRVJMbemvTOlJgZqk2Nyw), [Training dataset](https://drive.google.com/file/d/1W8vBRJYDG9imMgr9I2XaA13tlFIEHOjS/view), [Test dataset](https://hkuhk-my.sharepoint.com/:f:/g/personal/liangqqu_hku_hk/EqgW2IasbE1NtxtCycnaew4B6JQLsID1SQHUjGr9YwC3Fg?e=9uqw4C)) <span style="color:red;"> (Spotlight)
 <br> <span style="color:blue;"> **Liangqiong Qu**, Jiandong Tian, Shengfeng He, Yandong Tang, and Rynson W.H. Lau. 
 
 
