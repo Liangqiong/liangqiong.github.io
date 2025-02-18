@@ -12,7 +12,7 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
  <br> <span style="color:blue;"> Pengxin Guo, Shuang Zeng, Yanran Wang, Huijie Fan, Feifei Wang, **Liangqiong Qu**<sup>#</sup>. 
 - [AAAI 2025] **A New Federated Learning Framework Against Gradient Inversion Attacks**. ([Paper](https://arxiv.org/abs/2412.07187), [Code](https://github.com/Pengxin-Guo/HyperFL) )
  <br> <span style="color:blue;"> Pengxin Guo, Shuang Zeng, Wenhao Chen, Xiaodan Zhang, Weihong Ren, Yuyin Zhou, **Liangqiong Qu**<sup>#</sup>.
-- [AAAI 2025] **MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation**. 
+- [AAAI 2025] **MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation**.  [Oral]
  <br> <span style="color:blue;"> Xiaodan Zhang, Yanzhao Shi, Junzhong Ji<sup>#</sup>, Chengxin Zheng, **Liangqiong Qu**<sup>#</sup>.
 - [CVPR 2024] **FLHetBench: Benchmarking Device and State Heterogeneity in Federated Learning**. ([Project page](https://carkham.github.io/FL_Het_Bench/))
  <br> <span style="color:blue;"> Junyuan Zhang<sup>*</sup>, Shuang Zeng<sup>*</sup>, Miao Zhang, Runxi Wang, Feifei Wang, Yuyin Zhou, Paul Pu Liang, **Liangqiong Qu**<sup>#</sup>. 
