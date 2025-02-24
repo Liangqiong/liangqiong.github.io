@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an Assistant Professor in the [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/staff/liangqqu/) at The University of Hong Kong. 
   
- <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Postdoc, Ph.D. students, and remote interns to join my group in Fall 2024/2025. Please drop me an email if you are interested. </span>
+ <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Postdoc, Ph.D. students, and remote interns to join my group in Spring/Fall 2025/2026. Please drop me an email if you are interested. </span>
 
 Previously, I was a postdoctoral research fellow at Stanford University and the University of North Carolina at Chapel Hill. I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong Kong. My research interests span the area of artificial intelligence, computer vision and medical imaging processing, with a special focus on
 1) deep learning-driven image acquisition and reconstruction, and 2) the development of trustworthy medical AI systems
