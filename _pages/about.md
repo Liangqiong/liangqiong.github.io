@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the [Department of Statistics and Actuarial Science](https://saasweb.hku.hk/staff/liangqqu/) at The University of Hong Kong. 
+I am an Assistant Professor in the [School of Computing and Data Science](https://saasweb.hku.hk/staff/liangqqu/) at The University of Hong Kong. 
   
  <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Postdoc, Ph.D. students, and remote interns to join my group in Spring/Fall 2025/2026. Please drop me an email if you are interested. </span>
 
