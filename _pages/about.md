@@ -16,6 +16,8 @@ Previously, I was a postdoctoral research fellow at Stanford University and the 
 from imperfect medical data.
 
 ***RECENT NEWS***
+* 2025-06: One paper accepted to MICCAI 2025.
+* 2025-05: One paper accepted to IEEE JBHI 2025.
 * 2025-01: One paper accepted to ICLR 2025 [Paper](https://arxiv.org/abs/2410.01463).
 * 2025-01: Serve as an Area Chair of MICCAI 2025. 
 * 2024-10: Two papers accepted to AAAI 2025. 
