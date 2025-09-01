@@ -12,7 +12,6 @@ author_profile: true
 - **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (Incoming PhD student, 2025 Fall,  Co-Supervised with Prof. Wang)
 - **Zonggen Li** (Incoming PhD student, 2026 Spring), MPhil at LMU, HKPF
 - **Zhiqi Yu** (Incoming PhD student, 2025 Fall), MPhil at UESTC
-- **Ruitong Sun** (Incoming PhD student, 2025 Fall), BSc at Cambridge, HKPF
 
 Undergraduate & masters
 ======
@@ -37,7 +36,7 @@ Alumni
 - **Xiangcheng Zhan** (MSc intern from HKU in 2023 -> PhD at HIT)
 - **Yinong Wang** (Undergraduate intern from SCUT in 2023-> PhD at HKU)
 - **Yun Zhang** (Undergraduate intern of SRP 2024 from UCLA -> PhD at UCLA)
-- **Ruitong Sun** (Undergraduate intern of SRP 2024 from Cambridge -> PhD at HKU)
+- **Ruitong Sun** (Undergraduate intern of SRP 2024 from Cambridge -> PhD at Cambridge)
 - **Jianwen Chen** (Undergraduate intern from CUHK-SZ in 2024 -> MSc at UNC)
 - **Haoning Jiang** (Undergraduate intern from SUSTech)
 
