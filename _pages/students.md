@@ -9,9 +9,9 @@ author_profile: true
 - **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT
 - **Yinong Wang** (PhD student, 2024 Fall), BSc at SCUT
 - **Yuyuan Chen** (PhD student, 2024 Fall,  Co-Supervised with Prof. Wang)
-- **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (Incoming PhD student, 2025 Fall,  Co-Supervised with Prof. Wang)
-- **Zonggen Li** (Incoming PhD student, 2026 Spring), MPhil at LMU, HKPF
-- **Zhiqi Yu** (Incoming PhD student, 2025 Fall), MPhil at UESTC
+- **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (PhD student, 2025 Fall,  Co-Supervised with Prof. Wang)
+- **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS
+- **Zhiqi Yu** (PhD student, 2025 Fall), MPhil at UESTC
 
 Undergraduate & masters
 ======
