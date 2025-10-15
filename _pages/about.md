@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the [School of Computing and Data Science](https://saasweb.hku.hk/staff/liangqqu/) at The University of Hong Kong. 
+I am an Assistant Professor in the [School of Computing and Data Science](https://ai.hku.hk/people/academic-staff) at The University of Hong Kong. 
   
  <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Postdocs, Ph.D. students, and remote interns to join my group in Fall 2026. For the 2026 Ph.D. intake, I am particularly interested in candidates with research interests in image synthesis/generation and VLM/LLM for healthcare. Please drop me an email if you are interested. </span>
 
 Previously, I was a postdoctoral research fellow at Stanford University and the University of North Carolina at Chapel Hill. I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong Kong. My research interests span the area of artificial intelligence, computer vision and medical imaging processing.
 
 ***RECENT NEWS***
+* 2025-09: World’s Top 2% Scientists by Stanford University.
 * 2025-09: Serve as an Area Chair of CVPR 2026 and ICLR 2026. 
 * 2025-07: One paper accepted to ACM MM 2025.
 * 2025-06: One paper accepted to MICCAI 2025.
