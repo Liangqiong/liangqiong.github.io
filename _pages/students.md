@@ -58,27 +58,99 @@ author_profile: true
 <div class="photo-scroll-container">
   <div class="photo-scroll-gallery">
     <div class="photo-item">
-      <img src="/images/Weixin Image_20241209165937.jpg" alt="Lab Group Photo">
+      <img src="/images/2024-1.jpg" alt="Lab Group Photo">
       <p>Lab Group Photo 2024</p>
     </div>
     <div class="photo-item">
-      <img src="/images/Weixin Image_20251111093850_105_2.jp" alt="Lab Group Photo">
+      <img src="/images/2024-2.jpg" alt="Lab Group Photo">
+      <p>Lab Group Photo 2024</p>
+    </div>
+    <div class="photo-item">
+      <img src="/images/2025-2.jpg" alt="Lab Group Photo">
       <p>Lab Group Photo 2025</p>
-    </div>
-    <div class="photo-item">
-      <img src="/images/lab_photos/group3.jpg" alt="Lab Group Photo">
-      <p>Lab Group Photo 2022</p>
-    </div>
-    <div class="photo-item">
-      <img src="/images/lab_photos/group4.jpg" alt="Lab Group Photo">
-      <p>Lab Group Photo 2021</p>
-    </div>
-    <div class="photo-item">
-      <img src="/images/lab_photos/group5.jpg" alt="Lab Group Photo">
-      <p>Lab Group Photo 2020</p>
     </div>
   </div>
 </div>
 
+<style>
+.lab-intro {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  border-left: 4px solid #2c3e50;
+}
 
+.lab-intro h2 {
+  color: #2c3e50;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.lab-intro p {
+  margin-bottom: 0;
+  font-size: 1.1em;
+}
+
+.photo-scroll-container {
+  width: 100%;
+  overflow-x: auto;
+  margin-top: 20px;
+  padding: 10px 0;
+}
+
+.photo-scroll-gallery {
+  display: flex;
+  gap: 20px;
+  padding: 10px 0;
+}
+
+.photo-item {
+  flex: 0 0 auto;
+  width: 300px;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.photo-item:hover {
+  transform: translateY(-5px);
+}
+
+.photo-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+.photo-item p {
+  padding: 10px 15px;
+  margin: 0;
+  font-size: 0.9em;
+  color: #666;
+  text-align: center;
+  background: #f8f9fa;
+}
+
+.photo-scroll-container::-webkit-scrollbar {
+  height: 8px;
+}
+
+.photo-scroll-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.photo-scroll-container::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+.photo-scroll-container::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+</style>
 
