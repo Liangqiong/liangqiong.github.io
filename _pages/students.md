@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PhD Students"
+title: "HKU-HealthAI Lab"
 permalink: /students/
 author_profile: true
 ---
