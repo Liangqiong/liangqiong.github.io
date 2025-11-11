@@ -9,6 +9,9 @@ author_profile: true
   <p>Our lab focuses on <strong>AI for Healthcare</strong>, <strong>AI for Science</strong>, and <strong>Federated Learning</strong>.</p>
 </div>
 
+## Current Group Members
+
+### PhD Students
 - **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC
 - **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall)
 - **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT
@@ -18,14 +21,29 @@ author_profile: true
 - **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS
 - **Zhiqi Yu** (PhD student, 2025 Fall), MPhil at UESTC
 
-Undergraduate & masters
+### Undergraduate & Masters
 ======
 - **Ziyue Lin** (MSc intern from HKU)
 - **Yu Yun** (2025 summer intern, HKU)
 - **Lanrui Tang** (2025 summer intern, HKU)
 - **Ziying Huang** (2025 summer intern, SUSTech)
   
-  
+
+## Lab Photos
+
+<div class="lab-photos">
+  <div class="photo-gallery">
+    <div class="photo-item">
+      <img src="/images/Weixin Image_20241209165937.jpg" alt="Lab Group Photo">
+      <p>Lab Group Photo</p>
+    </div>
+    <div class="photo-item">
+      <img src="/images/images/Weixin Image_20251111093850_105_2.jpg" alt="Lab Group Photo">
+      <p>Lab Group Photo</p>
+    </div>
+  </div>
+</div>
+
 Alumni
 ======
 - **Jiawei Liu** (Co-supervised PhD at UCAS -> faculty at UCAS)
