@@ -23,7 +23,6 @@ author_profile: true
 
 
 ### Undergraduate & Masters
-======
 - **Ziyue Lin** (MSc intern from HKU)
 - **Yu Yun** (2025 summer intern, HKU)
 - **Lanrui Tang** (2025 summer intern, HKU)
@@ -32,10 +31,9 @@ author_profile: true
 
 
 ## Alumni
-======
 - **Jiawei Liu** (Co-supervised PhD at UCAS -> faculty at UCAS)
 - **[Miao Zhang](https://miaozhng.github.io/)** (MSc intern from Stanford in 2020 -> PhD at NYU)
-- **Justin Wang** （MSc intern from Stanford in 2021 -> AMAZON）
+- **Justin Wang** (MSc intern from Stanford in 2021 -> AMAZON)
 - **Yuling Yang** (MSc intern from SUFE in 2022 -> PhD at NEU)
 - **Junyuan Zhang** (Undergraduate intern from BUAA in 2023 -> PhD at HKU)
 - **Shuang Zeng** (MSc intern from HKU in 2023 -> PhD at HKU)
@@ -49,11 +47,7 @@ author_profile: true
 - **Jianwen Chen** (Undergraduate intern from CUHK-SZ in 2024 -> MSc at UNC)
 - **Haoning Jiang** (Undergraduate intern from SUSTech)
 
-
-
-
 ## Lab Photos
-
 
 <div class="photo-scroll-container">
   <div class="photo-scroll-gallery">
@@ -97,12 +91,14 @@ author_profile: true
   overflow-x: auto;
   margin-top: 20px;
   padding: 10px 0;
+  -webkit-overflow-scrolling: touch; /* 平滑滚动 */
 }
 
 .photo-scroll-gallery {
   display: flex;
   gap: 20px;
-  padding: 10px 0;
+  padding: 10px 5px;
+  min-width: min-content; 
 }
 
 .photo-item {
@@ -152,5 +148,14 @@ author_profile: true
 .photo-scroll-container::-webkit-scrollbar-thumb:hover {
   background: #a8a8a8;
 }
-</style>
 
+@media (max-width: 768px) {
+  .photo-item {
+    width: 250px;
+  }
+  
+  .photo-item img {
+    height: 180px;
+  }
+}
+</style>
