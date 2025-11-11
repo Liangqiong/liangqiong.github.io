@@ -21,6 +21,7 @@ author_profile: true
 - **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS
 - **Zhiqi Yu** (PhD student, 2025 Fall), MPhil at UESTC
 
+
 ### Undergraduate & Masters
 ======
 - **Ziyue Lin** (MSc intern from HKU)
@@ -29,22 +30,8 @@ author_profile: true
 - **Ziying Huang** (2025 summer intern, SUSTech)
   
 
-## Lab Photos
 
-<div class="lab-photos">
-  <div class="photo-gallery">
-    <div class="photo-item">
-      <img src="/images/Weixin Image_20241209165937.jpg" alt="Lab Group Photo">
-      <p>Lab Group Photo</p>
-    </div>
-    <div class="photo-item">
-      <img src="/images/images/Weixin Image_20251111093850_105_2.jpg" alt="Lab Group Photo">
-      <p>Lab Group Photo</p>
-    </div>
-  </div>
-</div>
-
-Alumni
+## Alumni
 ======
 - **Jiawei Liu** (Co-supervised PhD at UCAS -> faculty at UCAS)
 - **[Miao Zhang](https://miaozhng.github.io/)** (MSc intern from Stanford in 2020 -> PhD at NYU)
@@ -65,6 +52,33 @@ Alumni
 
 
 
+## Lab Photos
+
+
+<div class="photo-scroll-container">
+  <div class="photo-scroll-gallery">
+    <div class="photo-item">
+      <img src="/images/Weixin Image_20241209165937.jpg" alt="Lab Group Photo">
+      <p>Lab Group Photo 2024</p>
+    </div>
+    <div class="photo-item">
+      <img src="/images/Weixin Image_20251111093850_105_2.jp" alt="Lab Group Photo">
+      <p>Lab Group Photo 2025</p>
+    </div>
+    <div class="photo-item">
+      <img src="/images/lab_photos/group3.jpg" alt="Lab Group Photo">
+      <p>Lab Group Photo 2022</p>
+    </div>
+    <div class="photo-item">
+      <img src="/images/lab_photos/group4.jpg" alt="Lab Group Photo">
+      <p>Lab Group Photo 2021</p>
+    </div>
+    <div class="photo-item">
+      <img src="/images/lab_photos/group5.jpg" alt="Lab Group Photo">
+      <p>Lab Group Photo 2020</p>
+    </div>
+  </div>
+</div>
 
 
 
