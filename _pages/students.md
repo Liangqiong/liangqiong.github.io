@@ -4,6 +4,11 @@ title: "PhD Students"
 permalink: /students/
 author_profile: true
 ---
+<div class="lab-intro">
+  <h2>Welcome to the HKU-HealthAI Lab</h2>
+  <p>Our lab focuses on <strong>AI for Healthcare</strong>, <strong>AI for Science</strong>, and <strong>Federated Learning</strong>.</p>
+</div>
+
 - **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC
 - **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall)
 - **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT
@@ -19,7 +24,6 @@ Undergraduate & masters
 - **Yu Yun** (2025 summer intern, HKU)
 - **Lanrui Tang** (2025 summer intern, HKU)
 - **Ziying Huang** (2025 summer intern, SUSTech)
-- **Tamara Fakih** (2025 summer intern, AUB)
   
   
 Alumni
