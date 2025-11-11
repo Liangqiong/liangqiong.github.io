@@ -14,6 +14,7 @@ I am an Assistant Professor in the [School of Computing and Data Science](https:
 Previously, I was a postdoctoral research fellow at Stanford University and the University of North Carolina at Chapel Hill. I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong Kong. My research interests span the area of artificial intelligence, computer vision and medical imaging processing.
 
 ***RECENT NEWS***
+* 2025-11: Two papers accepted to AAAI (Oral Presentation).
 * 2025-09: World’s Top 2% Scientists by Stanford University.
 * 2025-09: Serve as an Area Chair of CVPR 2026 and ICLR 2026. 
 * 2025-07: One paper accepted to ACM MM 2025.
