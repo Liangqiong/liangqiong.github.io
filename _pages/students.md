@@ -22,14 +22,11 @@ author_profile: true
 - **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS
 - **Zhiqi Yu** (PhD student, 2025 Fall), MPhil at UESTC
 
-
 ### Undergraduate & Masters
 - **Ziyue Lin** (MSc intern from HKU)
 - **Yu Yun** (2025 summer intern, HKU)
 - **Lanrui Tang** (2025 summer intern, HKU)
 - **Ziying Huang** (2025 summer intern, SUSTech)
-  
-
 
 ## Alumni
 - **Jiawei Liu** (Co-supervised PhD at UCAS -> faculty at UCAS)
@@ -53,31 +50,36 @@ author_profile: true
 <div class="photo-scroll-container">
   <div class="photo-scroll-gallery">
     <div class="photo-item">
-      <img src="/images/2024-1.jpg" alt="Lab Group Photo">
+      <a href="/images/2024-1.jpg" data-lightbox="lab-photos" data-title="Lab Group Photo 2024">
+        <img src="/images/2024-1.jpg" alt="Lab Group Photo">
+      </a>
       <p>Lab Group Photo 2024</p>
     </div>
     <div class="photo-item">
-      <img src="/images/2024-2.jpg" alt="Lab Group Photo">
+      <a href="/images/2024-2.jpg" data-lightbox="lab-photos" data-title="Lab Group Photo 2024">
+        <img src="/images/2024-2.jpg" alt="Lab Group Photo">
+      </a>
       <p>Lab Group Photo 2024</p>
     </div>
     <div class="photo-item">
-      <img src="/images/2025-2.jpg" alt="Lab Group Photo">
+      <a href="/images/2025-2.jpg" data-lightbox="lab-photos" data-title="Lab Group Photo 2025">
+        <img src="/images/2025-2.jpg" alt="Lab Group Photo">
+      </a>
       <p>Lab Group Photo 2025</p>
     </div>
   </div>
 </div>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox-plus-jquery.min.js"></script>
+
 <style>
 .lab-intro {
-  background-color: #f8f9fa;
-  padding: 20px;
-  border-radius: 8px;
   margin-bottom: 30px;
-  border-left: 4px solid #2c3e50;
 }
 
 .lab-intro h2 {
-  color: #2c3e50;
+  font-family: Arial, sans-serif;
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -85,6 +87,7 @@ author_profile: true
 .lab-intro p {
   margin-bottom: 0;
   font-size: 1.1em;
+  font-family: Arial, sans-serif;
 }
 
 .photo-scroll-container {
@@ -92,14 +95,14 @@ author_profile: true
   overflow-x: auto;
   margin-top: 20px;
   padding: 10px 0;
-  -webkit-overflow-scrolling: touch; /* 平滑滚动 */
+  -webkit-overflow-scrolling: touch;
 }
 
 .photo-scroll-gallery {
   display: flex;
   gap: 20px;
   padding: 10px 5px;
-  min-width: min-content; 
+  min-width: min-content;
 }
 
 .photo-item {
@@ -116,11 +119,17 @@ author_profile: true
   transform: translateY(-5px);
 }
 
+.photo-item a {
+  display: block;
+  text-decoration: none;
+}
+
 .photo-item img {
   width: 100%;
   height: 200px;
   object-fit: cover;
   display: block;
+  cursor: pointer;
 }
 
 .photo-item p {
@@ -158,5 +167,12 @@ author_profile: true
   .photo-item img {
     height: 180px;
   }
+}
+
+.lab-intro,
+.photo-item,
+.photo-item img {
+  border: none;
+  outline: none;
 }
 </style>
