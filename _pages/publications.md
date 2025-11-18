@@ -8,13 +8,13 @@ author_profile: true
 You can find my full publication list on my [Google Scholar Profile](https://scholar.google.com/citations?user=ruKpgzwAAAAJ&hl=zh-CN) or my [ResearchGate Profile](https://www.researchgate.net/profile/Liangqiong-Qu-2). <br>
 **Remark**: <sup>*</sup> Co-first authors,  <sup>#</sup> Corresponding or Co-corresponding authors
 
-- [AAAI 2026] **Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**. ([Paper](https://arxiv.org/pdf/2503.07334), [Code](https://github.com/HKU-HealthAI/ARRA))
+- [AAAI 2026] **Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**. ([Paper](https://arxiv.org/pdf/2503.07334), [Code](https://github.com/HKU-HealthAI/ARRA)) (Oral Presentation)
   <br> <span style="color:blue;"> Xing Xie, Jiawei Liu, Ziyue Lin, Huijie Fan<sup>#</sup>, Zhi Han, Yandong Tang, **Liangqiong Qu**<sup>#</sup>. 
 - [ICLR 2025] **Selective Aggregation for Low-Rank Adaptation in Federated Learning**. ([Paper](https://arxiv.org/abs/2410.01463), [Code](https://github.com/Pengxin-Guo/FedSA-LoRA))
  <br> <span style="color:blue;"> Pengxin Guo, Shuang Zeng, Yanran Wang, Huijie Fan, Feifei Wang, **Liangqiong Qu**<sup>#</sup>. 
 - [AAAI 2025] **A New Federated Learning Framework Against Gradient Inversion Attacks**. ([Paper](https://arxiv.org/abs/2412.07187), [Code](https://github.com/Pengxin-Guo/HyperFL) )
  <br> <span style="color:blue;"> Pengxin Guo, Shuang Zeng, Wenhao Chen, Xiaodan Zhang, Weihong Ren, Yuyin Zhou, **Liangqiong Qu**<sup>#</sup>.
-- [AAAI 2025] **MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation**.  ([Paper](https://arxiv.org/pdf/2503.17784), [Code](https://github.com/YanzhaoShi/MEPNet)) <span style="color:red;"> (Oral)
+- [AAAI 2025] **MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation**.  ([Paper](https://arxiv.org/pdf/2503.17784), [Code](https://github.com/YanzhaoShi/MEPNet)) <span style="color:red;"> (Oral Presentation)
   <br> <span style="color:blue;"> Xiaodan Zhang, Yanzhao Shi, Junzhong Ji<sup>#</sup>, Chengxin Zheng, **Liangqiong Qu**<sup>#</sup>.
 - [CVPR 2024] **FLHetBench: Benchmarking Device and State Heterogeneity in Federated Learning**. ([Project page](https://carkham.github.io/FL_Het_Bench/))
  <br> <span style="color:blue;"> Junyuan Zhang<sup>*</sup>, Shuang Zeng<sup>*</sup>, Miao Zhang, Runxi Wang, Feifei Wang, Yuyin Zhou, Paul Pu Liang, **Liangqiong Qu**<sup>#</sup>. 
@@ -32,7 +32,7 @@ Hannes Vogel, Summer Han, Lu Tian, Feng Wu, and Jian Gong.
 - [Radiology: AI 2023] **AI Transformers for Radiation Dose Reduction in Serial Whole-Body PET Scans**. ([Paper](https://pubs.rsna.org/doi/full/10.1148/ryai.220246))
 <br> <span style="color:blue;"> Yan-Ran (Joyce) Wang<sup>*</sup>, **Liangqiong Qu**<sup>*</sup>, Natasha Diba Sheybani, Xiaolong Luo, Jiangshan Wang, Kristina Elizabeth Hawk, Ashok Joseph Theruvath, Sergios Gatidis, Xuerong Xiao, Allison Pribnow, Daniel Rubin, Heike E. Daldrup-Link.
 - [EMNLP 2023] **Granularity Matters: Pathological Graph-driven Cross-modal Alignment
-for Brain CT Report Generation**. ([Paper](https://openreview.net/pdf?id=bB32QLrpu4)) <span style="color:red;"> (Oral) 
+for Brain CT Report Generation**. ([Paper](https://openreview.net/pdf?id=bB32QLrpu4)) <span style="color:red;"> (Oral Presentation)
 <br> <span style="color:blue;"> Yanzhao Shi, Junzhong Ji, Xiaodan Zhang<sup>#</sup>, **Liangqiong Qu**<sup>#</sup>, and Ying Liu.
 - [TMI 2023] **Label-Efficient Self-Supervised Federated Learning for Tackling Data Heterogeneity in Medical Imaging**. ([Paper](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/stamp/stamp.jsp?tp=&arnumber=10004993&tag=1), [Code](https://github.com/rui-yan/SSL-FL))
 <br> <span style="color:blue;"> Rui Yan, **Liangqiong Qu**, Qingyue Wei, Shih-Cheng Huang, Liyue Shen, Daniel Rubin, Lei Xing, Yuyin Zhou.
@@ -47,7 +47,7 @@ by NIR-IIb Molecular Fluorescence Imaging**. ([Paper](https://www.pnas.org/doi/f
 <br> <span style="color:blue;"> Feifei Wang<sup>*</sup>, **Liangqiong Qu**<sup>*</sup>, Ani Baghdasaryan<sup>*</sup>, RuSiou Hsu, Peng Liang, Jiachen Li, Guanzhou Zhu, Zhuoran Ma, Hongjie Dai.
 - [MeDIA 2020] **Synthesized 7T MRI from 3T MRI via Deep Learning in Spatial and Wavelet Domains**. ([Paper](https://www.sciencedirect.com/science/article/pii/S1361841520300293?casa_token=EOp1ZQaY6-wAAAAA:ZDlOHj_p9PlXDc2QtF7hAyzlYS-dqP0vYLJ_tcFD7afoo1w68-EHixRkyYWVAduqz2_mHNHRQA), [Code](https://github.com/Liangqiong/WATNet))
  <br> <span style="color:blue;"> **Liangqiong Qu**, Yongqin Zhang, Shuai Wang, Pew-Thian Yap, Dinggang Shen.
-- [MICCAI 2019] **Wavelet-based Semi-supervised Adversarial Learning for Synthesizing Realistic 7T from 3T MRI**. ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_86)) <span style="color:red;"> (Oral) 
+- [MICCAI 2019] **Wavelet-based Semi-supervised Adversarial Learning for Synthesizing Realistic 7T from 3T MRI**. ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_86)) <span style="color:red;"> (Oral Presentation) 
  <br> <span style="color:blue;"> **Liangqiong Qu**, Shuai Wang, Pew-Thian Yap, Dinggang Shen. 
 - [CVPR 2017] **DeshadowNet: A Multi-context Embedding Deep Network for Shadow Removal**. ([Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qu_DeshadowNet_A_Multi-Context_CVPR_2017_paper.pdf), [Code](https://pan.baidu.com/s/1cKRVJMbemvTOlJgZqk2Nyw), [Training dataset](https://drive.google.com/file/d/1W8vBRJYDG9imMgr9I2XaA13tlFIEHOjS/view), [Test dataset](https://hkuhk-my.sharepoint.com/:f:/g/personal/liangqqu_hku_hk/EqgW2IasbE1NtxtCycnaew4B6JQLsID1SQHUjGr9YwC3Fg?e=9uqw4C)) <span style="color:red;"> (Spotlight)
 <br> <span style="color:blue;"> **Liangqiong Qu**, Jiandong Tian, Shengfeng He, Yandong Tang, and Rynson W.H. Lau. 
