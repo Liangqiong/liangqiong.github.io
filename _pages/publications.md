@@ -8,6 +8,8 @@ author_profile: true
 You can find my full publication list on my [Google Scholar Profile](https://scholar.google.com/citations?user=ruKpgzwAAAAJ&hl=zh-CN) or my [ResearchGate Profile](https://www.researchgate.net/profile/Liangqiong-Qu-2). <br>
 **Remark**: <sup>*</sup> Co-first authors,  <sup>#</sup> Corresponding or Co-corresponding authors
 
+- [AAAI 2026] **Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**. ([Paper](https://arxiv.org/pdf/2503.07334), [Code](https://github.com/HKU-HealthAI/ARRA))
+  <br> <span style="color:blue;"> Xing Xie, Jiawei Liu, Ziyue Lin, Huijie Fan<sup>#</sup>, Zhi Han, Yandong Tang, **Liangqiong Qu**<sup>#</sup>. 
 - [ICLR 2025] **Selective Aggregation for Low-Rank Adaptation in Federated Learning**. ([Paper](https://arxiv.org/abs/2410.01463), [Code](https://github.com/Pengxin-Guo/FedSA-LoRA))
  <br> <span style="color:blue;"> Pengxin Guo, Shuang Zeng, Yanran Wang, Huijie Fan, Feifei Wang, **Liangqiong Qu**<sup>#</sup>. 
 - [AAAI 2025] **A New Federated Learning Framework Against Gradient Inversion Attacks**. ([Paper](https://arxiv.org/abs/2412.07187), [Code](https://github.com/Pengxin-Guo/HyperFL) )
