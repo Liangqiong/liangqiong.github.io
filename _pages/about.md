@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the [School of Computing and Data Science](https://ai.hku.hk/people/academic-staff) at The University of Hong Kong, where I lead the HKU-HealthAI Lab(https://liangqiong.github.io/students/). 
+I am an Assistant Professor in the [School of Computing and Data Science](https://ai.hku.hk/people/academic-staff) at The University of Hong Kong, where I lead the [HKU-HealthAI Lab](https://liangqiong.github.io/students/). 
   
  <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Postdocs, Ph.D. students, and remote interns to join my group in Fall 2026. For the 2026 Ph.D. intake, I am particularly interested in candidates with research interests in image synthesis/generation and VLM/LLM for healthcare. Please drop me an email if you are interested. </span>
 
