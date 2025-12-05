@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "HKU-HealthAI Lab"
-permalink: /Lab/
+permalink: /students/
 author_profile: true
 ---
 
