@@ -40,7 +40,7 @@ author_profile: true
 - **Xiangcheng Zhan** (MSc intern from HKU in 2023 -> PhD at HIT)
 - **Yinong Wang** (Undergraduate intern from SCUT in 2023-> PhD at HKU)
 - **Yun Zhang** (Undergraduate intern of SRP 2024 from UCLA -> PhD at UCLA)
-- **Ruitong Sun** (Undergraduate intern of SRP 2024 from Cambridge -> PhD at Cambridge)
+- **Ruitong Sun** (Undergraduate intern of SRP 2024 from Cambridge)
 - **Yujian Yuan** (MSc intern from UCAS 2024-> PhD at HKUST)
 - **Jianwen Chen** (Undergraduate intern from CUHK-SZ in 2024 -> MSc at UNC)
 - **Haoning Jiang** (Undergraduate intern from SUSTech in 2025-> PhD at HKUST)
