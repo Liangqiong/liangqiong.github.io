@@ -28,8 +28,8 @@ author_profile: true
 - **Ziying Huang** (2025 summer intern, SUSTech)
 
 ## Alumni
-- **Jiawei Liu** (Co-supervised PhD at UCAS -> faculty at UCAS)
-- **[Miao Zhang](https://github.com/nachifur)** (MSc intern from Stanford in 2020 -> PhD at NYU)
+- **Jiawei Liu(https://github.com/nachifur)** (Co-supervised PhD at UCAS -> faculty at UCAS)
+- **[Miao Zhang](https://miaozhng.github.io/)** (MSc intern from Stanford in 2020 -> PhD at NYU)
 - **Justin Wang** (MSc intern from Stanford in 2021 -> AMAZON)
 - **Yuling Yang** (MSc intern from SUFE in 2022 -> PhD at NEU)
 - **Junyuan Zhang** (Undergraduate intern from BUAA in 2023 -> PhD at HKU)
