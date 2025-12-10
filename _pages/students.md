@@ -9,8 +9,6 @@ author_profile: true
   <p>Welcome to the HKU-HealthAI Lab. Our lab focuses on <strong>AI for Healthcare</strong>, <strong>AI for Science</strong>, and <strong>Federated Learning</strong>.</p>
 </div>
 
-## Current Group Members
-
 ### PhD Students
 - **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC
 - **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall)
