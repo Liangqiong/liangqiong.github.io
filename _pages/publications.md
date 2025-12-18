@@ -9,7 +9,7 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
 **Remark**: <sup>*</sup> Co-first authors,  <sup>#</sup> Corresponding or Co-corresponding authors
 
 - [IEEE TPAMI 2026] **Exploring the Vulnerabilities of Federated Learning:
-A Deep Dive into Gradient Inversion Attacks**. ([Paper](https://arxiv.org/pdf/2503.11514), [Project Page](https://pengxin-guo.github.io/FLPrivacy/) 
+A Deep Dive into Gradient Inversion Attacks**. ([Paper](https://arxiv.org/pdf/2503.11514), [Project Page](https://pengxin-guo.github.io/FLPrivacy/)) 
   <br> <span style="color:blue;"> Pengxin Guo, Runxi Wang, Shuang Zeng, Jinjing Zhu, Haoning Jiang, Yanran Wang, Yuyin Zhou, Feifei
 Wang, Hui Xiong, **Liangqiong Qu**<sup>#</sup>. 
 - [AAAI 2026] **Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**. ([Paper](https://arxiv.org/pdf/2503.07334), [Code](https://github.com/HKU-HealthAI/ARRA)) <span style="color:red;"> (Oral Presentation)
