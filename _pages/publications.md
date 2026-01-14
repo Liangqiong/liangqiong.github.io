@@ -8,10 +8,12 @@ author_profile: true
 You can find my full publication list on my [Google Scholar Profile](https://scholar.google.com/citations?user=ruKpgzwAAAAJ&hl=zh-CN) or my [ResearchGate Profile](https://www.researchgate.net/profile/Liangqiong-Qu-2). <br>
 **Remark**: <sup>*</sup> Co-first authors,  <sup>#</sup> Corresponding or Co-corresponding authors
 
-- [IEEE TPAMI 2026] **Exploring the Vulnerabilities of Federated Learning:
+- [IEEE TPAMI 2025] **Exploring the Vulnerabilities of Federated Learning:
 A Deep Dive into Gradient Inversion Attacks**. ([Paper](https://arxiv.org/pdf/2503.11514), [Project Page](https://pengxin-guo.github.io/FLPrivacy/)) 
   <br> <span style="color:blue;"> Pengxin Guo, Runxi Wang, Shuang Zeng, Jinjing Zhu, Haoning Jiang, Yanran Wang, Yuyin Zhou, Feifei
-Wang, Hui Xiong, **Liangqiong Qu**<sup>#</sup>. 
+Wang, Hui Xiong, **Liangqiong Qu**<sup>#</sup>.
+- [IEEE TIP 2026] **DVG-Diffusion: Dual-View Guided Diffusion Model for CT Reconstruction from X-Rays**. ([Paper](https://arxiv.org/pdf/2503.17804), [Code is coming soon]) 
+  <br> <span style="color:blue;"> Xing Xie, Jiawei Liu, Huijie Fan, Zhi Han<sup>#</sup>, Yandong Tang, **Liangqiong Qu**<sup>#</sup>. 
 - [AAAI 2026] **Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**. ([Paper](https://arxiv.org/pdf/2503.07334), [Code](https://github.com/HKU-HealthAI/ARRA)) <span style="color:red;"> (Oral Presentation)
   <br> <span style="color:blue;"> Xing Xie, Jiawei Liu, Ziyue Lin, Huijie Fan<sup>#</sup>, Zhi Han, Yandong Tang, **Liangqiong Qu**<sup>#</sup>. 
 - [ICLR 2025] **Selective Aggregation for Low-Rank Adaptation in Federated Learning**. ([Paper](https://arxiv.org/abs/2410.01463), [Code](https://github.com/Pengxin-Guo/FedSA-LoRA))
