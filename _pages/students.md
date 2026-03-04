@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="lab-intro">
-  <p>Welcome to the HKU-HealthAI Lab. Our lab focuses on <strong>AI for Healthcare/Science</strong>, <strong>Generative AI</strong>, and <strong>Federated Learning</strong>.</p>
+  <p>Welcome to the HKU-HealthAI Lab. Our lab focuses on <strong>AI for Healthcare and Science</strong>, <strong>Generative AI</strong>, and <strong>Federated Learning</strong>.</p>
 </div>
 
 ### PhD Students
