@@ -10,17 +10,18 @@ author_profile: true
 </div>
 
 ### PhD Students
-- **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC
-- **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall)
-- **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT
-- **Yinong Wang** (PhD student, 2024 Fall), BSc at SCUT
-- **Yuyuan Chen** (PhD student, 2024 Fall,  Co-Supervised with Prof. Wang)
-- **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (PhD student, 2025 Fall,  Co-Supervised with Prof. Wang)
-- **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS
-- **Zhiqi Yu** (PhD student, 2025 Fall), MPhil at UESTC
+- **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC, Research Interests: Federated Learning
+- **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall), Research Interests: Generative AI
+- **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT, Research Interests: Federated Learning
+- **Yinong Wang** (PhD student, 2024 Fall), BSc at SCUT, Research Interests: AI for Healthcare
+- **Yuyuan Chen** (PhD student, 2024 Fall,  Co-Supervised with Prof. Wang), Research Interests: AI for Science
+- **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (PhD student, 2025 Fall,  Co-Supervised with Prof. Wang), Research Interests: AI for Healthcare
+- **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS, Research Interests: AI Agent
+- **Zhiqi Yu** (PhD student, 2025 Fall), MPhil at UESTC, Research Interests: AI for Healthcare
 
 ### Undergraduate & Masters
 - **Ziyue Lin** (MSc intern from HKU)
+- **Hongyu Xia** (MSc intern from HKU)
 - **Yu Yun** (2025 summer intern, HKU)
 - **Lanrui Tang** (2025 summer intern, HKU)
 - **Ziying Huang** (2025 summer intern, SUSTech)
