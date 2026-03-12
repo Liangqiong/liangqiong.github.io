@@ -16,8 +16,8 @@ author_profile: true
 - **Yinong Wang** (PhD student, 2024 Fall), BSc at SCUT, Research Interests: AI for Healthcare
 - **Yuyuan Chen** (PhD student, 2024 Fall,  Co-Supervised with Prof. Wang), Research Interests: AI for Science
 - **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (PhD student, 2025 Fall,  Co-Supervised with Prof. Wang), Research Interests: AI for Healthcare/Science
-- **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS, Research Interests: AI Agent
-- **[Zhiqi Yu](https://scholar.google.com/citations?user=dRv9W2YAAAAJ&hl=zh-CN)** (PhD student, 2025 Fall), MPhil at UESTC, Research Interests: AI for Healthcare
+- **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS, Research Interests: AI for Healthcare
+- **[Zhiqi Yu](https://scholar.google.com/citations?user=dRv9W2YAAAAJ&hl=zh-CN)** (PhD student, 2025 Fall), MPhil at UESTC, Research Interests: AI Agent 
 
 ### Undergraduate & Masters
 - **Ziyue Lin** (MSc intern from HKU)
