@@ -20,7 +20,6 @@ author_profile: true
 - **[Zhiqi Yu](https://scholar.google.com/citations?user=dRv9W2YAAAAJ&hl=zh-CN)** (PhD student, 2025 Fall), MPhil at UESTC, Research Interests: AI Agent 
 
 ### Undergraduate & Masters
-- **Ziyue Lin** (MSc intern from HKU)
 - **Hongyu Xia** (MSc intern from HKU)
 - **Yu Yun** (2025 summer intern, HKU)
 - **Lanrui Tang** (2025 summer intern, HKU)
