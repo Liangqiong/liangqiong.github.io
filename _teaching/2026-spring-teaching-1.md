@@ -36,4 +36,6 @@ Introduction to HPC environments, Linux command line, compilers, remote login, j
 ### Lecture 21. Softmax and Flash Attention in CUDA
 ### Lecture 22. CUDA Support: Makefile and CUDA Toolchain
 ### Lecture 23. Parallel Deep Neural Network Training
+</details>
+
 
