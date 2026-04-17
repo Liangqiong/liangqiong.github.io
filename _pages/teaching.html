@@ -5,14 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<p>Number of teaching items: {{ site.teaching | size }}</p>
+{% assign teaching_items = site.teaching | sort: "date" | reverse %}
 
-<ul>
-{% for post in site.teaching reversed %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    | {{ post.type }}
-    | {{ post.collection }}
-  </li>
-{% endfor %}
-</ul>
+{% if teaching_items.size > 0 %}
+  <ul>
+  {% for post in teaching_items %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% if post.type %} — {{ post.type }}{% endif %}
+      {% if post.venue %}, {{ post.venue }}{% endif %}
+      {% if post.location %}, {{ post.location }}{% endif %}
+      {% if post.date %} ({{ post.date | date: "%Y" }}){% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p>No teaching items found.</p>
+{% endif %}
