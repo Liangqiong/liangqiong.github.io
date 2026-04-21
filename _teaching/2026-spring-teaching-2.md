@@ -35,5 +35,5 @@ published: true
 ### Lecture 20. Deep Learning Essentials
 ### Lecture 21. Softmax and Flash Attention in CUDA
 ### Lecture 22. CUDA Support: Makefile and CUDA Toolchain
-### Lecture 23. Parallel Deep Neural Network Training
+### Lecture 23. Large Scale Network Training
 </details>
