@@ -18,7 +18,6 @@ published: true
 ### Lecture 1. Introduction
 ### Lecture 2. Prerequisites: Computer Architecture and Introduction to C Programming
 ### Lecture 3. Working with HPC
-Introduction to HPC environments, Linux command line, compilers, remote login, job submission, and using cluster resources effectively.
 ### Lecture 4. Parallel Programming Basics
 ### Lecture 5. Introduction to OpenMP
 ### Lectures 6. OpenMP Basics
