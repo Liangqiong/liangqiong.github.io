@@ -10,9 +10,9 @@ author_profile: true
 </div>
 
 ### PhD Students
-- **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC, Research Interests: Federated Learning
+- **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC, Research Interests: Federated Learning, LLM/VLM
 - **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall), Research Interests: Generative AI
-- **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT, Research Interests: Federated Learning
+- **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT, Research Interests: Federated Learning, LLM/VLM
 - **Yinong Wang** (PhD student, 2024 Fall), BSc at SCUT, Research Interests: AI for Healthcare
 - **Yuyuan Chen** (PhD student, 2024 Fall,  Co-Supervised with Prof. Wang), Research Interests: AI for Science
 - **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (PhD student, 2025 Fall,  Co-Supervised with Prof. Wang), Research Interests: AI for Healthcare/Science
@@ -40,6 +40,7 @@ author_profile: true
 - **Yun Zhang** (Undergraduate intern of SRP 2024 from UCLA -> PhD at UCLA)
 - **Ruitong Sun** (Undergraduate intern of SRP 2024 from Cambridge)
 - **Yujian Yuan** (MSc intern from UCAS 2024-> PhD at HKUST)
+- **Yanzhao Shi** (MSc intern from BJUT 2024/2025-> PhD at HKU)
 - **Jianwen Chen** (Undergraduate intern from CUHK-SZ in 2024 -> MSc at UNC)
 - **Haoning Jiang** (Undergraduate intern from SUSTech in 2025-> PhD at HKUST)
 
