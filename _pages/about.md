@@ -17,19 +17,19 @@ I am an Assistant Professor in the [School of Computing and Data Science](https:
 Previously, I was a postdoctoral research fellow at Stanford University and the University of North Carolina at Chapel Hill. I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong Kong. My research interests span the area of artificial intelligence, computer vision and medical imaging processing.
 
 ***RECENT NEWS***
-* 2025-03: Serve as an Area Chair of MICCAI 2026 and Neurips 2026. 
+* 2025-03: Serve as an Area Chair for MICCAI 2026 and Neurips 2026. 
 * 2026-02: Three papers accepted to IEEE CVPR 2026.
 * 2026-01: One paper about CT Reconstruction from X-Rays accepted to IEEE TIP [Paper](https://arxiv.org/abs/2503.17804)
 * 2025-12: One paper about federated learning accepted to IEEE TPAMI [Paper](https://arxiv.org/pdf/2503.11514), [Project Page](https://pengxin-guo.github.io/FLPrivacy/).
 * 2025-12: One co-authored paper accepted to PNAS.
 * 2025-11: Two papers accepted to AAAI (Oral Presentation).
 * 2025-09: World’s Top 2% Scientists by Stanford University.
-* 2025-09: Serve as an Area Chair of CVPR 2026 and ICLR 2026. 
+* 2025-09: Serve as an Area Chair for CVPR 2026 and ICLR 2026. 
 * 2025-07: One paper accepted to ACM MM 2025.
 * 2025-06: One paper accepted to MICCAI 2025.
 * 2025-05: One paper accepted to IEEE JBHI 2025.
 * 2025-01: One paper accepted to ICLR 2025 [Paper](https://arxiv.org/abs/2410.01463).
-* 2025-01: Serve as an Area Chair of MICCAI 2025. 
+* 2025-01: Serve as an Area Chair for MICCAI 2025. 
 * 2024-10: Two papers accepted to AAAI 2025. 
 * 2024-10: One paper about report generation was accepted to EMNLP 2024. 
 * 2024-06: One paper was accepted to Cancer Cell 2024 (IF: 50.3) [Paper](https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00227-7).
