@@ -8,7 +8,7 @@ author_profile: true
 You can find my full publication list on my [Google Scholar Profile](https://scholar.google.com/citations?user=ruKpgzwAAAAJ&hl=zh-CN) or my [ResearchGate Profile](https://www.researchgate.net/profile/Liangqiong-Qu-2). <br>
 **Remark**: <sup>*</sup> Co-first authors,  <sup>#</sup> Corresponding or Co-corresponding authors
 
-- [CVPR 2026] **Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation**. (Paper is coming soon) 
+- [CVPR 2026] **Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation**. ([Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Decoupled_Residual_Denoising_Diffusion_Models_for_Unified_and_Data_Efficient_CVPR_2026_paper.pdf), [Code](https://github.com/HKU-HealthAI/DRDD)) 
   <br> <span style="color:blue;"> Ziyue Lin<sup>*</sup>, Jiahe Hou<sup>*</sup>, Hongyu Xia<sup>*</sup>, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu<sup>#</sup>, **Liangqiong Qu**<sup>#</sup>.
 - [IEEE TPAMI 2026] **Exploring the Vulnerabilities of Federated Learning:
 A Deep Dive into Gradient Inversion Attacks**. ([Paper](https://arxiv.org/pdf/2503.11514), [Project Page](https://pengxin-guo.github.io/FLPrivacy/)) 
