@@ -10,10 +10,8 @@ You can find my full publication list on my [Google Scholar Profile](https://sch
 
 - [CVPR 2026] **Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation**. ([Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Decoupled_Residual_Denoising_Diffusion_Models_for_Unified_and_Data_Efficient_CVPR_2026_paper.pdf), [Code](https://github.com/HKU-HealthAI/DRDD)) 
   <br> <span style="color:blue;"> Ziyue Lin<sup>*</sup>, Jiahe Hou<sup>*</sup>, Hongyu Xia<sup>*</sup>, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu<sup>#</sup>, **Liangqiong Qu**<sup>#</sup>.
-- [CVPR 2026] **STUR3D: Spatio-Temporal Unified Representation Learning for 3D Object Detection**.([Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Fan_STUR3D_Spatio-Temporal_Unified_Representation_Learning_for_3D_Object_Detection_CVPR_2026_paper.pdf), [code](https://github.com/snowindog/STUR3D)).
+- [CVPR 2026] **STUR3D: Spatio-Temporal Unified Representation Learning for 3D Object Detection**.([Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Fan_STUR3D_Spatio-Temporal_Unified_Representation_Learning_for_3D_Object_Detection_CVPR_2026_paper.pdf), [code](https://github.com/snowindog/STUR3D)). <span style="color:red;"> (CVPR Compute Transparency Champion Award) 
  <br> <span style="color:blue;">  Huijie Fan, Pengrui Huang,  Qiang Wang, Baojie Fan, Jiahua Dong, **Liangqiong Qu**.  
-- [CVPR 2026] **Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation**. ([Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Decoupled_Residual_Denoising_Diffusion_Models_for_Unified_and_Data_Efficient_CVPR_2026_paper.pdf), [Code](https://github.com/HKU-HealthAI/DRDD)) 
-  <br> <span style="color:blue;"> Ziyue Lin<sup>*</sup>, Jiahe Hou<sup>*</sup>, Hongyu Xia<sup>*</sup>, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu<sup>#</sup>, **Liangqiong Qu**<sup>#</sup>.
 - [IEEE TPAMI 2026] **Exploring the Vulnerabilities of Federated Learning:
 A Deep Dive into Gradient Inversion Attacks**. ([Paper](https://arxiv.org/pdf/2503.11514), [Project Page](https://pengxin-guo.github.io/FLPrivacy/)) 
   <br> <span style="color:blue;"> Pengxin Guo, Runxi Wang, Shuang Zeng, Jinjing Zhu, Haoning Jiang, Yanran Wang, Yuyin Zhou, Feifei
