@@ -17,7 +17,8 @@ I am an Assistant Professor in the [School of Computing and Data Science](https:
 Previously, I was a postdoctoral research fellow at Stanford University and the University of North Carolina at Chapel Hill. I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong Kong. My research interests span the area of artificial intelligence, computer vision and medical imaging processing.
 
 ***RECENT NEWS***
-* 2026-03: Serve as an Area Chair for MICCAI 2026 and NeurIPS 2026. 
+* 2026-06: One paper accepted to MICCAI 2026.
+* 2026-06: Our paper has been awarded the 2026 CVPR Compute Transparency Champion Award — the highest recognition in CVPR 2026’s Compute Reporting Initiative. 
 * 2026-02: Three papers accepted to IEEE CVPR 2026.
 * 2026-01: One paper about CT Reconstruction from X-Rays accepted to IEEE TIP [Paper](https://arxiv.org/abs/2503.17804)
 * 2025-12: One paper about federated learning accepted to IEEE TPAMI [Paper](https://arxiv.org/pdf/2503.11514), [Project Page](https://pengxin-guo.github.io/FLPrivacy/).
