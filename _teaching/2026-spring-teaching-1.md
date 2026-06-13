@@ -3,7 +3,7 @@ title: "APAI4013 Applied high-performance computing and parallel programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-teaching-1
-date: 2026-01-01
+date: 2026-02-01
 venue: "The University of Hong Kong"
 location: "Hong Kong"
 ---
