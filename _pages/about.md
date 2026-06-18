@@ -9,14 +9,13 @@ redirect_from:
 ---
 I am an Assistant Professor in the [School of Computing and Data Science](https://ai.hku.hk/people/academic-staff) at The University of Hong Kong, where I lead the [HKU-HealthAI Lab](https://liangqiong.github.io/students/). 
   
- <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Postdocs, Ph.D. students, and remote interns to join my group in Fall 2026/Spring 2027. For the 2026 Ph.D. intake, I am particularly interested in candidates with research interests in image synthesis/generation and VLM/LLM for healthcare. Please drop me an email if you are interested. </span>
-
- <span style="color:blue;font-weight:bold;"> I am looking for self-motivated students to join my group for the [HKU Summer Research Programme 2026](https://gradsch.hku.hk/news_and_events/news_and_future_events/summer-research-programme-2026).  Please drop me an email if you are interested. </span>
+ <span style="color:blue;font-weight:bold;"> I am looking for self-motivated Postdocs, Ph.D. students, and remote interns to join my group in Spring 2027/Fall 2027. For the 2026 Ph.D. intake, I am particularly interested in candidates with research interests in image synthesis/generation and VLM/LLM for healthcare. Please drop me an email if you are interested. </span>
 
 
 Previously, I was a postdoctoral research fellow at Stanford University and the University of North Carolina at Chapel Hill. I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong Kong. My research interests span the area of artificial intelligence, computer vision and medical imaging processing.
 
 ***RECENT NEWS***
+* 2026-06: Two papers accepted to ECCV 2026.
 * 2026-06: One paper accepted to MICCAI 2026.
 * 2026-06: Our paper has been awarded the 2026 CVPR Compute Transparency Champion Award — the highest recognition in CVPR 2026’s Compute Reporting Initiative. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Fan_STUR3D_Spatio-Temporal_Unified_Representation_Learning_for_3D_Object_Detection_CVPR_2026_paper.pdf).
 * 2026-02: Three papers accepted to IEEE CVPR 2026. 
