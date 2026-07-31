@@ -25,7 +25,9 @@ author_profile: true
 - **Ziying Huang** (2025 summer intern, SUSTech)
 - **Chenyiqiu Zheng** (2026 HKU SRP, UCL)
 - **Zhibo Li** (2026 summer intern, ZJU)
-
+- **Duo Yun** (2026 summer intern, Cambridge)
+- **Zichuan Ying** (2026 summer intern, HKU)
+- 
 ## Alumni
 - **[Jiawei Liu](https://github.com/nachifur)** (Co-supervised PhD at UCAS -> faculty at UCAS)
 - **[Miao Zhang](https://miaozhng.github.io/)** (MSc intern from Stanford in 2020 -> PhD at NYU)
