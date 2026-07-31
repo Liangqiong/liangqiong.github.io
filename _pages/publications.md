@@ -8,8 +8,8 @@ author_profile: true
 You can find my full publication list on my [Google Scholar Profile](https://scholar.google.com/citations?user=ruKpgzwAAAAJ&hl=zh-CN) or my [ResearchGate Profile](https://www.researchgate.net/profile/Liangqiong-Qu-2). <br>
 **Remark**: <sup>*</sup> Co-first authors,  <sup>#</sup> Corresponding or Co-corresponding authors
 
-- [ECCV 2026] **Discrete Diffusion Bridges for Spatiotemporally Aligned Image Translation and Generation**.  
-  <br> <span style="color:blue;">  Xing Xie, Jiawei Liu, Shijun Zhou, Huijie Fan<sup>#</sup>, Zhi Han, Yandong Tang, **Liangqiong Qu**<sup>#</sup>.
+- [ECCV 2026] **Discrete Diffusion Bridges for Spatiotemporally Aligned Image Translation and Generation**.
+<br> <span style="color:blue;">  Xing Xie, Jiawei Liu, Shijun Zhou, Huijie Fan<sup>#</sup>, Zhi Han, Yandong Tang, **Liangqiong Qu**<sup>#</sup>.
 - [CVPR 2026] **Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation**. ([Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Decoupled_Residual_Denoising_Diffusion_Models_for_Unified_and_Data_Efficient_CVPR_2026_paper.pdf), [Code](https://github.com/HKU-HealthAI/DRDD)) 
   <br> <span style="color:blue;"> Ziyue Lin<sup>*</sup>, Jiahe Hou<sup>*</sup>, Hongyu Xia<sup>*</sup>, Xinrui Xie, Feifei Wang, Yuyin Zhou, Wei Wang, Jiawei Liu<sup>#</sup>, **Liangqiong Qu**<sup>#</sup>.
 - [CVPR 2026] **STUR3D: Spatio-Temporal Unified Representation Learning for 3D Object Detection**.([Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Fan_STUR3D_Spatio-Temporal_Unified_Representation_Learning_for_3D_Object_Detection_CVPR_2026_paper.pdf), [Code](https://github.com/snowindog/STUR3D)). <span style="color:red;"> (CVPR Compute Transparency Champion Award) 
