@@ -15,7 +15,7 @@ I am an Assistant Professor in the [School of Computing and Data Science](https:
 Previously, I was a postdoctoral research fellow at Stanford University and the University of North Carolina at Chapel Hill. I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong Kong. My research interests span the area of artificial intelligence, computer vision and medical imaging processing.
 
 ***RECENT NEWS***
-* 2026-09: One paper accepted to The Lancet Digital Health.
+* 2026-08: One paper accepted to The Lancet Digital Health.
 * 2026-06: Two papers accepted to ECCV 2026.
 * 2026-06: One paper accepted to MICCAI 2026.
 * 2026-06: Our paper has been awarded the 2026 CVPR Compute Transparency Champion Award — the highest recognition in CVPR 2026’s Compute Reporting Initiative. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Fan_STUR3D_Spatio-Temporal_Unified_Representation_Learning_for_3D_Object_Detection_CVPR_2026_paper.pdf).
