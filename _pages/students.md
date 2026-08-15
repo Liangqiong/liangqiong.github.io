@@ -18,8 +18,8 @@ author_profile: true
 - **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (PhD student, 2025 Fall,  Co-supervised with Prof. Wang), Research Interests: AI for Healthcare/Science
 - **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS, Research Interests: AI for Healthcare
 - **[Zhiqi Yu](https://scholar.google.com/citations?user=dRv9W2YAAAAJ&hl=zh-CN)** (PhD student, 2025 Fall), MPhil at UESTC, Research Interests: AI Agent 
-- **[Jianchen Zhang](https://github.com/ZhangJC-2k)** (Incoming PhD student, 2026 Fall), MPhil at NWPU, Research Interests: Generative AI
-- **[Junfu Tan](https://jf-tan.github.io/about/)** (Incoming PhD student, 2026 Fall，Co-supervised with Prof. Wang), MPhil at TJU, Research Interests: Generative AI
+- **[Jianchen Zhang](https://github.com/ZhangJC-2k)** (PhD student, 2026 Fall), MPhil at NWPU, Research Interests: Generative AI
+- **[Junfu Tan](https://jf-tan.github.io/about/)** (PhD student, 2026 Fall，Co-supervised with Prof. Wang), MPhil at TJU, Research Interests: Generative AI
 - **Tianrun Gao** (Incoming PhD student, 2026 Fall), MPhil at Tongji, Research Interests: AI for Healthcare
 - **Xuanye Zhang** (Incoming PhD student, 2026 Fall), MPhil at CUHK-SZ, Research Interests: AI for Healthcare
 - **Lanrui Tang** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare and Generative AI
