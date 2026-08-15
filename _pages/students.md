@@ -9,7 +9,7 @@ author_profile: true
   <p>Welcome to the HKU-HealthAI Lab. Our lab focuses on <strong>AI for Healthcare and Science</strong>, <strong>Generative AI</strong>, and <strong>Federated Learning</strong>.</p>
 </div>
 
-### PhD and Mphil Students
+### PhD and MPhil Students
 - **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC, Research Interests: Federated Learning, LLM/VLM
 - **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall), Research Interests: Generative AI
 - **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT, Research Interests: Federated Learning, LLM/VLM
@@ -20,11 +20,11 @@ author_profile: true
 - **[Zhiqi Yu](https://scholar.google.com/citations?user=dRv9W2YAAAAJ&hl=zh-CN)** (PhD student, 2025 Fall), MPhil at UESTC, Research Interests: AI Agent 
 - **[Jianchen Zhang](https://github.com/ZhangJC-2k)** (Incoming PhD student, 2026 Fall), MPhil at NWPU, Research Interests: Generative AI
 - **[Junfu Tan](https://jf-tan.github.io/about/)** (Incoming PhD student, 2026 Fall，Co-supervised with Prof. Wang), MPhil at TJU, Research Interests: Generative AI
-- **[Tianrun Gao]** (Incoming PhD student, 2026 Fall), MPhil at Tongji, Research Interests: AI for Healthcare
-- **[Xuanye Zhang]** (Incoming PhD student, 2026 Fall), MPhil at CUHK-SZ, Research Interests: AI for Healthcare
-- **[Lanrui Tang]** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare and Generative AI
-- **[Chuxuan Zhang]** (MPhil student, 2026 Fall), BSc at NKU, Research Interests: AI for Healthcare
-- **[Jinrun Cao]** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare
+- **Tianrun Gao** (Incoming PhD student, 2026 Fall), MPhil at Tongji, Research Interests: AI for Healthcare
+- **Xuanye Zhang** (Incoming PhD student, 2026 Fall), MPhil at CUHK-SZ, Research Interests: AI for Healthcare
+- **Lanrui Tang** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare and Generative AI
+- **Chuxuan Zhang** (MPhil student, 2026 Fall), BSc at NKU, Research Interests: AI for Healthcare
+- **Jinrun Cao** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare
 
 
 ### Undergraduate & Masters
