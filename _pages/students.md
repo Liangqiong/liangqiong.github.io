@@ -9,19 +9,26 @@ author_profile: true
   <p>Welcome to the HKU-HealthAI Lab. Our lab focuses on <strong>AI for Healthcare and Science</strong>, <strong>Generative AI</strong>, and <strong>Federated Learning</strong>.</p>
 </div>
 
-### PhD Students
+### PhD and Mphil Students
 - **[Pengxin Guo](https://pengxin-guo.github.io/)** (PhD student, 2023 Fall), MPhil at SUSTC, Research Interests: Federated Learning, LLM/VLM
 - **Xing Xie** (affiliated PhD student at UCAS, 2023 Fall), Research Interests: Generative AI
 - **Weiying Zheng** (PhD student, 2024 Fall), MPhil at SCUT, Research Interests: Federated Learning, LLM/VLM
 - **Yinong Wang** (PhD student, 2024 Fall), BSc at SCUT, Research Interests: AI for Healthcare
-- **Yuyuan Chen** (PhD student, 2024 Fall,  Co-Supervised with Prof. Wang), Research Interests: AI for Science
-- **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (PhD student, 2025 Fall,  Co-Supervised with Prof. Wang), Research Interests: AI for Healthcare/Science
+- **Yuyuan Chen** (PhD student, 2024 Fall,  Co-supervised with Prof. Wang), Research Interests: AI for Science
+- **[Yanzhao Shi](https://yanzhaoshi.github.io/)** (PhD student, 2025 Fall,  Co-supervised with Prof. Wang), Research Interests: AI for Healthcare/Science
 - **Zonggen Li** (PhD student, 2025 Fall), MPhil at LMU, HKPFS, Research Interests: AI for Healthcare
 - **[Zhiqi Yu](https://scholar.google.com/citations?user=dRv9W2YAAAAJ&hl=zh-CN)** (PhD student, 2025 Fall), MPhil at UESTC, Research Interests: AI Agent 
+- **[Jianchen Zhang](https://github.com/ZhangJC-2k)** (Incoming PhD student, 2026 Fall), MPhil at NWPU, Research Interests: Generative AI
+- **[Junfu Tan](https://jf-tan.github.io/about/)** (Incoming PhD student, 2026 Fall，Co-supervised with Prof. Wang), MPhil at TJU, Research Interests: Generative AI
+- **[Tianrun Gao]** (Incoming PhD student, 2026 Fall), MPhil at Tongji, Research Interests: AI for Healthcare
+- **[Xuanye Zhang]** (Incoming PhD student, 2026 Fall), MPhil at CUHK-SZ, Research Interests: AI for Healthcare
+- **[Lanrui Tang]** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare and Generative AI
+- **[Chuxuan Zhang]** (MPhil student, 2026 Fall), BSc at NKU, Research Interests: AI for Healthcare
+- **[Jinrun Cao]** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare
+
 
 ### Undergraduate & Masters
 - **Yu Yun** (2025 summer intern, HKU)
-- **Lanrui Tang** (2025 summer intern, HKU)
 - **Ziying Huang** (2025 summer intern, SUSTech)
 - **Chenyiqiu Zheng** (2026 HKU SRP, UCL)
 - **Zhibo Li** (2026 summer intern, ZJU)
@@ -47,6 +54,7 @@ author_profile: true
 - **Jianwen Chen** (Undergraduate intern from CUHK-SZ in 2024 -> MSc at UNC)
 - **Haoning Jiang** (Undergraduate intern from SUSTech in 2025-> PhD at HKUST)
 - **Hongyu Xia** (MSc intern from HKU -> PhD at HIT)
+- **Lanrui Tang** (2025 summer intern -> Mphil at HKU)
 
 ## Lab Photos
 
