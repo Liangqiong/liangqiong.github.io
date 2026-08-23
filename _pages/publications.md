@@ -7,6 +7,9 @@ author_profile: true
 
 You can find my full publication list on my [Google Scholar Profile](https://scholar.google.com/citations?user=ruKpgzwAAAAJ&hl=zh-CN) or my [ResearchGate Profile](https://www.researchgate.net/profile/Liangqiong-Qu-2). <br>
 **Remark**: <sup>*</sup> Co-first authors,  <sup>#</sup> Corresponding or Co-corresponding authors
+- [Lancet Digital Health 2026] **A Vision-Language Foundation Model for Precise and Comprehensive
+Brain Tumor Diagnosis from Preoperative Multimodal Data**. ([Paper](https://hku-healthai.github.io/brainvlm_project.github.io/static/pdfs/BrainVLM_main.pdf?v=20260823-main-link), [Project Page](https://hku-healthai.github.io/brainvlm_project.github.io/))
+ <br> <span style="color:blue;">  Yinong Wang<sup>*</sup>, Jianwen Chen<sup>*</sup>, Zhou Chen<sup>*</sup>, Shuwen Kuang<sup>*</sup>, Haoning Jiang, Yanzhao Shi, Huichun Yuan, Yan-ran (Joyce) Wang, Bing Wang, Lei Wu, Bin Tang, Li Meng, Baihua Luo, Bin Zhou, Wei Ding, Weiming Zhong, Wei Hou, Yuanbing Chen, Zhiping Wan, Wei Wang, Zhenkun Xiao, Wenwu Wan, Allen Het, Yuyin Zhou, Longbo Zhang, Feifei Wang, Zhixiong Liu, Michael Iv, Xuan Gong<sup>#</sup>, **Liangqiong Qu**<sup>#</sup>.
 
 - [ECCV 2026] **Discrete Diffusion Bridges for Spatiotemporally Aligned Image Translation and Generation**.
 <br> <span style="color:blue;">  Xing Xie, Jiawei Liu, Shijun Zhou, Huijie Fan<sup>#</sup>, Zhi Han, Yandong Tang, **Liangqiong Qu**<sup>#</sup>.
