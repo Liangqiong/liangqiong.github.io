@@ -25,12 +25,13 @@ author_profile: true
 - **Lanrui Tang** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare and Generative AI
 - **Chuxuan Zhang** (MPhil student, 2026 Fall), BSc at NKU, Research Interests: AI for Healthcare
 - **Jinrun Cao** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare
+- **Chenyiqiu Zheng** (PhD student, 2027 Spring), BSc at UCL, HKUPS, Research Interests: Generative AI
+
 
 
 ### Undergraduate & Masters
 - **Yu Yun** (2025 summer intern, HKU)
 - **Ziying Huang** (2025 summer intern, SUSTech)
-- **Chenyiqiu Zheng** (2026 HKU SRP, UCL)
 - **Zhibo Li** (2026 summer intern, ZJU)
 - **Duo Yun** (2026 summer intern, Cambridge)
 - **Zichuan Ying** (2026 summer intern, HKU)
@@ -55,6 +56,7 @@ author_profile: true
 - **Haoning Jiang** (Undergraduate intern from SUSTech in 2025-> PhD at HKUST)
 - **Hongyu Xia** (MSc intern from HKU -> PhD at HIT)
 - **Lanrui Tang** (2025 summer intern -> Mphil at HKU)
+- **Chenyiqiu Zheng** (2026 HKU SRP, UCL-> PhD at HKU, HKUPS)
 
 ## Lab Photos
 
