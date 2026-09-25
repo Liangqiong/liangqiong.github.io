@@ -15,7 +15,8 @@ I am an Assistant Professor in the [School of Computing and Data Science](https:
 Previously, I was a postdoctoral research fellow at Stanford University and the University of North Carolina at Chapel Hill. I obtained my joint Ph.D. degree in University of Chinese Academy of Sciences and City University of Hong Kong. My research interests span the area of artificial intelligence, computer vision and medical imaging processing.
 
 ***RECENT NEWS***
-* 2026-09: Serve as an Area Chair for ICLR 2027. 
+* 2026-09: One paper accepted to NeurIPS 2026. 
+* 2026-09: Serve as an Area Chair for ICLR 2027 and CVPR 2027. 
 * 2026-08: One paper accepted to The Lancet Digital Health. [Paper](https://hku-healthai.github.io/brainvlm_project.github.io/static/pdfs/BrainVLM_main.pdf?v=20260823-main-link), [Project Page](https://hku-healthai.github.io/brainvlm_project.github.io/).
 * 2026-06: Two papers accepted to ECCV 2026.
 * 2026-06: One paper accepted to MICCAI 2026.
