@@ -26,7 +26,7 @@ author_profile: true
 - **Chuxuan Zhang** (MPhil student, 2026 Fall), BSc at NKU, Research Interests: AI for Healthcare
 - **Jinrun Cao** (MPhil student, 2026 Fall), BSc at HKU, Research Interests: AI for Healthcare
 - **Chenyiqiu Zheng** (PhD student, 2027 Spring), BSc at UCL, HKUPS, Research Interests: Generative AI
-- **Yaqi Zhao** (PhD student, 2027 Spring), BSc at SDU, Research Interests: AI for Healthcare
+- **Yaqi Zhao** (PhD student, 2027 Spring), Mphil at SDU, Research Interests: AI for Healthcare
 
 
 
